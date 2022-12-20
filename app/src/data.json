@@ -1,0 +1,7673 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "CSV",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 160.054993, -9.428, 9 ]
+			},
+			"properties" : {
+				"ident" : "AGGH",
+				"name" : "Honiara International Airport",
+				"latitude" : -9.428,
+				"longitude" : 160.054993,
+				"elevation [m]" : 9,
+				"continent" : "OC",
+				"municipality" : "Honiara",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 147.2200012, -9.443380356, 44 ]
+			},
+			"properties" : {
+				"ident" : "AYPY",
+				"name" : "Port Moresby Jacksons International Airport",
+				"latitude" : -9.443380356,
+				"longitude" : 147.2200012,
+				"elevation [m]" : 44,
+				"continent" : "OC",
+				"municipality" : "Port Moresby",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -22.6056, 63.985001, 52 ]
+			},
+			"properties" : {
+				"ident" : "BIKF",
+				"name" : "Keflavik International Airport",
+				"latitude" : 63.985001,
+				"longitude" : -22.6056,
+				"elevation [m]" : 52,
+				"continent" : "EU",
+				"municipality" : "ReykjavÃ­k",
+				"website" : "https://www.isavia.is/en/keflavik-airport"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -113.5800018, 53.30970001, 723 ]
+			},
+			"properties" : {
+				"ident" : "CYEG",
+				"name" : "Edmonton International Airport",
+				"latitude" : 53.30970001,
+				"longitude" : -113.5800018,
+				"elevation [m]" : 723,
+				"continent" : "NA",
+				"municipality" : "Edmonton",
+				"website" : "http://www.edmontonairports.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -63.50859833, 44.88079834, 145 ]
+			},
+			"properties" : {
+				"ident" : "CYHZ",
+				"name" : "Halifax / Stanfield International Airport",
+				"latitude" : 44.88079834,
+				"longitude" : -63.50859833,
+				"elevation [m]" : 145,
+				"continent" : "NA",
+				"municipality" : "Halifax",
+				"website" : "http://www.hiaa.ca/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -75.669197, 45.322498, 114 ]
+			},
+			"properties" : {
+				"ident" : "CYOW",
+				"name" : "Ottawa Macdonald-Cartier International Airport",
+				"latitude" : 45.322498,
+				"longitude" : -75.669197,
+				"elevation [m]" : 114,
+				"continent" : "NA",
+				"municipality" : "Ottawa",
+				"website" : "https://yow.ca/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.393303, 46.7911, 74 ]
+			},
+			"properties" : {
+				"ident" : "CYQB",
+				"name" : "Quebec Jean Lesage International Airport",
+				"latitude" : 46.7911,
+				"longitude" : -71.393303,
+				"elevation [m]" : 74,
+				"continent" : "NA",
+				"municipality" : "Quebec",
+				"website" : "http://www.aeroportdequebec.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.74079895, 45.47060013, 36 ]
+			},
+			"properties" : {
+				"ident" : "CYUL",
+				"name" : "Montreal / Pierre Elliott Trudeau International Airport",
+				"latitude" : 45.47060013,
+				"longitude" : -73.74079895,
+				"elevation [m]" : 36,
+				"continent" : "NA",
+				"municipality" : "Montreal",
+				"website" : "http://www.admtl.com/passager/Home.aspx"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.1839981, 49.19390106, 4 ]
+			},
+			"properties" : {
+				"ident" : "CYVR",
+				"name" : "Vancouver International Airport",
+				"latitude" : 49.19390106,
+				"longitude" : -123.1839981,
+				"elevation [m]" : 4,
+				"continent" : "NA",
+				"municipality" : "Vancouver",
+				"website" : "http://www.yvr.ca/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -97.23989868, 49.90999985, 239 ]
+			},
+			"properties" : {
+				"ident" : "CYWG",
+				"name" : "Winnipeg / James Armstrong Richardson International Airport",
+				"latitude" : 49.90999985,
+				"longitude" : -97.23989868,
+				"elevation [m]" : 239,
+				"continent" : "NA",
+				"municipality" : "Winnipeg",
+				"website" : "http://www.waa.ca/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.361, 49.025299, 59 ]
+			},
+			"properties" : {
+				"ident" : "CYXX",
+				"name" : "Abbotsford International Airport",
+				"latitude" : 49.025299,
+				"longitude" : -122.361,
+				"elevation [m]" : 59,
+				"continent" : "NA",
+				"municipality" : "Abbotsford",
+				"website" : "http://www.abbotsfordairport.ca/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -114.0199966, 51.11389923, 1084 ]
+			},
+			"properties" : {
+				"ident" : "CYYC",
+				"name" : "Calgary International Airport",
+				"latitude" : 51.11389923,
+				"longitude" : -114.0199966,
+				"elevation [m]" : 1084,
+				"continent" : "NA",
+				"municipality" : "Calgary",
+				"website" : "http://www.calgaryairport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.426003, 48.6469, 19 ]
+			},
+			"properties" : {
+				"ident" : "CYYJ",
+				"name" : "Victoria International Airport",
+				"latitude" : 48.6469,
+				"longitude" : -123.426003,
+				"elevation [m]" : 19,
+				"continent" : "NA",
+				"municipality" : "Victoria",
+				"website" : "http://www.victoriaairport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -52.75189972, 47.61859894, 141 ]
+			},
+			"properties" : {
+				"ident" : "CYYT",
+				"name" : "St. John's International Airport",
+				"latitude" : 47.61859894,
+				"longitude" : -52.75189972,
+				"elevation [m]" : 141,
+				"continent" : "NA",
+				"municipality" : "St. John's",
+				"website" : "http://www.stjohnsairport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.63059998, 43.67720032, 173 ]
+			},
+			"properties" : {
+				"ident" : "CYYZ",
+				"name" : "Lester B. Pearson International Airport",
+				"latitude" : 43.67720032,
+				"longitude" : -79.63059998,
+				"elevation [m]" : 173,
+				"continent" : "NA",
+				"municipality" : "Toronto",
+				"website" : "http://www.gtaa.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 3.214531, 36.693886, 25 ]
+			},
+			"properties" : {
+				"ident" : "DAAG",
+				"name" : "Houari Boumediene Airport",
+				"latitude" : 36.693886,
+				"longitude" : 3.214531,
+				"elevation [m]" : 25,
+				"continent" : "AF",
+				"municipality" : "Algiers",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -0.166786, 5.6051898, 62 ]
+			},
+			"properties" : {
+				"ident" : "DGAA",
+				"name" : "Kotoka International Airport",
+				"latitude" : 5.6051898,
+				"longitude" : -0.166786,
+				"elevation [m]" : 62,
+				"continent" : "AF",
+				"municipality" : "Accra",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.263169765, 9.006790161, 342 ]
+			},
+			"properties" : {
+				"ident" : "DNAA",
+				"name" : "Nnamdi Azikiwe International Airport",
+				"latitude" : 9.006790161,
+				"longitude" : 7.263169765,
+				"elevation [m]" : 342,
+				"continent" : "AF",
+				"municipality" : "Abuja",
+				"website" : "http://www.faannigeria.org/nigeria-airport.php?airport=3"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 3.321160078, 6.577370167, 41 ]
+			},
+			"properties" : {
+				"ident" : "DNMM",
+				"name" : "Murtala Muhammed International Airport",
+				"latitude" : 6.577370167,
+				"longitude" : 3.321160078,
+				"elevation [m]" : 41,
+				"continent" : "AF",
+				"municipality" : "Lagos",
+				"website" : "http://www.faannigeria.org/nigeria-airport.php?airport=1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.18361, 13.4815, 223 ]
+			},
+			"properties" : {
+				"ident" : "DRRN",
+				"name" : "Diori Hamani International Airport",
+				"latitude" : 13.4815,
+				"longitude" : 2.18361,
+				"elevation [m]" : 223,
+				"continent" : "AF",
+				"municipality" : "Niamey",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 10.2272, 36.851002, 7 ]
+			},
+			"properties" : {
+				"ident" : "DTTA",
+				"name" : "Tunis Carthage International Airport",
+				"latitude" : 36.851002,
+				"longitude" : 10.2272,
+				"elevation [m]" : 7,
+				"continent" : "AF",
+				"municipality" : "Tunis",
+				"website" : "http://www.oaca.nat.tn/english/div_horizontal_tunis_airport_eng.htm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.48444, 50.901402, 56 ]
+			},
+			"properties" : {
+				"ident" : "EBBR",
+				"name" : "Brussels Airport",
+				"latitude" : 50.901402,
+				"longitude" : 4.48444,
+				"elevation [m]" : 56,
+				"continent" : "EU",
+				"municipality" : "Zaventem",
+				"website" : "http://www.brusselsairport.be/en/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.500672, 52.362247, 48 ]
+			},
+			"properties" : {
+				"ident" : "EDDB",
+				"name" : "Berlin Brandenburg Airport",
+				"latitude" : 52.362247,
+				"longitude" : 13.500672,
+				"elevation [m]" : 48,
+				"continent" : "EU",
+				"municipality" : "Berlin",
+				"website" : "https://ber.berlin-airport.de/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.561268, 50.036521, 111 ]
+			},
+			"properties" : {
+				"ident" : "EDDF",
+				"name" : "Frankfurt Airport",
+				"latitude" : 50.036521,
+				"longitude" : 8.561268,
+				"elevation [m]" : 111,
+				"continent" : "EU",
+				"municipality" : "Frankfurt am Main",
+				"website" : "http://www.frankfurt-airport.de/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 9.98823, 53.630402, 16 ]
+			},
+			"properties" : {
+				"ident" : "EDDH",
+				"name" : "Hamburg Helmut Schmidt Airport",
+				"latitude" : 53.630402,
+				"longitude" : 9.98823,
+				"elevation [m]" : 16,
+				"continent" : "EU",
+				"municipality" : "Hamburg",
+				"website" : "https://www.hamburg-airport.de/en/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.14274, 50.865898, 92 ]
+			},
+			"properties" : {
+				"ident" : "EDDK",
+				"name" : "Cologne Bonn Airport",
+				"latitude" : 50.865898,
+				"longitude" : 7.14274,
+				"elevation [m]" : 92,
+				"continent" : "EU",
+				"municipality" : "Koeln (Cologne)",
+				"website" : "http://www.koeln-bonn-airport.de/en/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 6.76678, 51.289501, 45 ]
+			},
+			"properties" : {
+				"ident" : "EDDL",
+				"name" : "Duesseldorf Airport",
+				"latitude" : 51.289501,
+				"longitude" : 6.76678,
+				"elevation [m]" : 45,
+				"continent" : "EU",
+				"municipality" : "Duesseldorf",
+				"website" : "http://www.dus.com/dus_en/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.7861, 48.353802, 453 ]
+			},
+			"properties" : {
+				"ident" : "EDDM",
+				"name" : "Munich Airport",
+				"latitude" : 48.353802,
+				"longitude" : 11.7861,
+				"elevation [m]" : 453,
+				"continent" : "EU",
+				"municipality" : "Munich",
+				"website" : "http://www.munich-airport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.078056, 49.498699, 319 ]
+			},
+			"properties" : {
+				"ident" : "EDDN",
+				"name" : "Nuremberg Airport",
+				"latitude" : 49.498699,
+				"longitude" : 11.078056,
+				"elevation [m]" : 319,
+				"continent" : "EU",
+				"municipality" : "Nuremberg",
+				"website" : "https://www.airport-nuernberg.de/english"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.236389, 51.423889, 142 ]
+			},
+			"properties" : {
+				"ident" : "EDDP",
+				"name" : "Leipzig/Halle Airport",
+				"latitude" : 51.423889,
+				"longitude" : 12.236389,
+				"elevation [m]" : 142,
+				"continent" : "EU",
+				"municipality" : "Leipzig",
+				"website" : "https://www.mdf-ag.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 9.221960068, 48.68989944, 389 ]
+			},
+			"properties" : {
+				"ident" : "EDDS",
+				"name" : "Stuttgart Airport",
+				"latitude" : 48.68989944,
+				"longitude" : 9.221960068,
+				"elevation [m]" : 389,
+				"continent" : "EU",
+				"municipality" : "Stuttgart",
+				"website" : "http://www.flughafen-stuttgart.de/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 9.68508, 52.461102, 56 ]
+			},
+			"properties" : {
+				"ident" : "EDDV",
+				"name" : "Hannover Airport",
+				"latitude" : 52.461102,
+				"longitude" : 9.68508,
+				"elevation [m]" : 56,
+				"continent" : "EU",
+				"municipality" : "Hannover",
+				"website" : "https://www.hannover-airport.de"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 24.83279991, 59.41329956, 40 ]
+			},
+			"properties" : {
+				"ident" : "EETN",
+				"name" : "Lennart Meri Tallinn Airport",
+				"latitude" : 59.41329956,
+				"longitude" : 24.83279991,
+				"elevation [m]" : 40,
+				"continent" : "EU",
+				"municipality" : "Tallinn",
+				"website" : "http://www.tallinn-airport.ee/eng"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 24.963301, 60.3172, 55 ]
+			},
+			"properties" : {
+				"ident" : "EFHK",
+				"name" : "Helsinki Vantaa Airport",
+				"latitude" : 60.3172,
+				"longitude" : 24.963301,
+				"elevation [m]" : 55,
+				"continent" : "EU",
+				"municipality" : "Helsinki",
+				"website" : "http://www.finavia.fi/en/helsinki-airport"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -6.215829849, 54.65750122, 82 ]
+			},
+			"properties" : {
+				"ident" : "EGAA",
+				"name" : "Belfast International Airport",
+				"latitude" : 54.65750122,
+				"longitude" : -6.215829849,
+				"elevation [m]" : 82,
+				"continent" : "EU",
+				"municipality" : "Belfast",
+				"website" : "http://www.belfastairport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -1.748029947, 52.45389938, 100 ]
+			},
+			"properties" : {
+				"ident" : "EGBB",
+				"name" : "Birmingham International Airport",
+				"latitude" : 52.45389938,
+				"longitude" : -1.748029947,
+				"elevation [m]" : 100,
+				"continent" : "EU",
+				"municipality" : "Birmingham",
+				"website" : "http://www.bhx.co.uk/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.279521, 53.349375, 78 ]
+			},
+			"properties" : {
+				"ident" : "EGCC",
+				"name" : "Manchester Airport",
+				"latitude" : 53.349375,
+				"longitude" : -2.279521,
+				"elevation [m]" : 78,
+				"continent" : "EU",
+				"municipality" : "Manchester",
+				"website" : "http://www.manchesterairport.co.uk/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -0.368333012, 51.87469864, 160 ]
+			},
+			"properties" : {
+				"ident" : "EGGW",
+				"name" : "London Luton Airport",
+				"latitude" : 51.87469864,
+				"longitude" : -0.368333012,
+				"elevation [m]" : 160,
+				"continent" : "EU",
+				"municipality" : "London",
+				"website" : "http://www.london-luton.co.uk/en/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -0.190278, 51.148102, 62 ]
+			},
+			"properties" : {
+				"ident" : "EGKK",
+				"name" : "London Gatwick Airport",
+				"latitude" : 51.148102,
+				"longitude" : -0.190278,
+				"elevation [m]" : 62,
+				"continent" : "EU",
+				"municipality" : "London",
+				"website" : "http://www.gatwickairport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -0.461941, 51.4706, 25 ]
+			},
+			"properties" : {
+				"ident" : "EGLL",
+				"name" : "London Heathrow Airport",
+				"latitude" : 51.4706,
+				"longitude" : -0.461941,
+				"elevation [m]" : 25,
+				"continent" : "EU",
+				"municipality" : "London",
+				"website" : "http://www.heathrowairport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -4.43306, 55.871899, 8 ]
+			},
+			"properties" : {
+				"ident" : "EGPF",
+				"name" : "Glasgow International Airport",
+				"latitude" : 55.871899,
+				"longitude" : -4.43306,
+				"elevation [m]" : 8,
+				"continent" : "EU",
+				"municipality" : "Paisley, Renfrewshire",
+				"website" : "http://www.glasgowairport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -3.372288, 55.950145, 41 ]
+			},
+			"properties" : {
+				"ident" : "EGPH",
+				"name" : "Edinburgh Airport",
+				"latitude" : 55.950145,
+				"longitude" : -3.372288,
+				"elevation [m]" : 41,
+				"continent" : "EU",
+				"municipality" : "Edinburgh",
+				"website" : "http://www.edinburghairport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 0.234999999, 51.88499832, 106 ]
+			},
+			"properties" : {
+				"ident" : "EGSS",
+				"name" : "London Stansted Airport",
+				"latitude" : 51.88499832,
+				"longitude" : 0.234999999,
+				"elevation [m]" : 106,
+				"continent" : "EU",
+				"municipality" : "London",
+				"website" : "http://www.stanstedairport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.76389, 52.308601, -3 ]
+			},
+			"properties" : {
+				"ident" : "EHAM",
+				"name" : "Amsterdam Airport Schiphol",
+				"latitude" : 52.308601,
+				"longitude" : 4.76389,
+				"elevation [m]" : -3,
+				"continent" : "EU",
+				"municipality" : "Amsterdam",
+				"website" : "http://www.schiphol.nl/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.374529839, 51.45009995, 23 ]
+			},
+			"properties" : {
+				"ident" : "EHEH",
+				"name" : "Eindhoven Airport",
+				"latitude" : 51.45009995,
+				"longitude" : 5.374529839,
+				"elevation [m]" : 23,
+				"continent" : "EU",
+				"municipality" : "Eindhoven",
+				"website" : "http://www.eindhovenairport.nl/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -6.262121, 53.428713, 74 ]
+			},
+			"properties" : {
+				"ident" : "EIDW",
+				"name" : "Dublin Airport",
+				"latitude" : 53.428713,
+				"longitude" : -6.262121,
+				"elevation [m]" : 74,
+				"continent" : "EU",
+				"municipality" : "Dublin",
+				"website" : "http://www.dublinairport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -8.92482, 52.702, 14 ]
+			},
+			"properties" : {
+				"ident" : "EINN",
+				"name" : "Shannon Airport",
+				"latitude" : 52.702,
+				"longitude" : -8.92482,
+				"elevation [m]" : 14,
+				"continent" : "EU",
+				"municipality" : "Shannon",
+				"website" : "http://www.shannonairport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 9.151780128, 55.74029922, 75 ]
+			},
+			"properties" : {
+				"ident" : "EKBI",
+				"name" : "Billund Airport",
+				"latitude" : 55.74029922,
+				"longitude" : 9.151780128,
+				"elevation [m]" : 75,
+				"continent" : "EU",
+				"municipality" : "Billund",
+				"website" : "http://www.billund-airport.dk/?sc_lang=en"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.65600014, 55.61790085, 5 ]
+			},
+			"properties" : {
+				"ident" : "EKCH",
+				"name" : "Copenhagen Kastrup Airport",
+				"latitude" : 55.61790085,
+				"longitude" : 12.65600014,
+				"elevation [m]" : 5,
+				"continent" : "EU",
+				"municipality" : "Copenhagen",
+				"website" : "http://www.cph.dk/en/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 6.2044444, 49.6233333, 376 ]
+			},
+			"properties" : {
+				"ident" : "ELLX",
+				"name" : "Luxembourg-Findel International Airport",
+				"latitude" : 49.6233333,
+				"longitude" : 6.2044444,
+				"elevation [m]" : 376,
+				"continent" : "EU",
+				"municipality" : "Luxembourg",
+				"website" : "http://www.lux-airport.lu/en/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.21814, 60.2934, 52 ]
+			},
+			"properties" : {
+				"ident" : "ENBR",
+				"name" : "Bergen Airport, Flesland",
+				"latitude" : 60.2934,
+				"longitude" : 5.21814,
+				"elevation [m]" : 52,
+				"continent" : "EU",
+				"municipality" : "Bergen",
+				"website" : "http://www.avinor.no/en/airport/bergen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.1004, 60.193901, 208 ]
+			},
+			"properties" : {
+				"ident" : "ENGM",
+				"name" : "Oslo Airport, Gardermoen",
+				"latitude" : 60.193901,
+				"longitude" : 11.1004,
+				"elevation [m]" : 208,
+				"continent" : "EU",
+				"municipality" : "Oslo",
+				"website" : "https://avinor.no/en/airport/oslo-airport"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 18.9189, 69.683296, 9 ]
+			},
+			"properties" : {
+				"ident" : "ENTC",
+				"name" : "Tromsa Airport, Langnes",
+				"latitude" : 69.683296,
+				"longitude" : 18.9189,
+				"elevation [m]" : 9,
+				"continent" : "EU",
+				"municipality" : "Tromsa",
+				"website" : "http://www.avinor.no/en/airport/tromso"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 10.924, 63.457802, 17 ]
+			},
+			"properties" : {
+				"ident" : "ENVA",
+				"name" : "Trondheim Airport, Varnes",
+				"latitude" : 63.457802,
+				"longitude" : 10.924,
+				"elevation [m]" : 17,
+				"continent" : "EU",
+				"municipality" : "Trondheim",
+				"website" : "https://avinor.no/en/airport/trondheim-airport/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.63778, 58.876701, 9 ]
+			},
+			"properties" : {
+				"ident" : "ENZV",
+				"name" : "Stavanger Airport, Sola",
+				"latitude" : 58.876701,
+				"longitude" : 5.63778,
+				"elevation [m]" : 9,
+				"continent" : "EU",
+				"municipality" : "Stavanger",
+				"website" : "http://www.avinor.no/en/airport/stavanger/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 18.46619987, 54.37760162, 149 ]
+			},
+			"properties" : {
+				"ident" : "EPGD",
+				"name" : "GdaÅ„sk Lech WaÅ‚Ä™sa Airport",
+				"latitude" : 54.37760162,
+				"longitude" : 18.46619987,
+				"elevation [m]" : 149,
+				"continent" : "EU",
+				"municipality" : "GdaÅ„sk",
+				"website" : "http://www.airport.gdansk.pl/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 19.7848, 50.077702, 241 ]
+			},
+			"properties" : {
+				"ident" : "EPKK",
+				"name" : "Krakow John Paul II International Airport",
+				"latitude" : 50.077702,
+				"longitude" : 19.7848,
+				"elevation [m]" : 241,
+				"continent" : "EU",
+				"municipality" : "Krakow",
+				"website" : "http://www.krakowairport.pl/en/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 20.96710014, 52.16569901, 110 ]
+			},
+			"properties" : {
+				"ident" : "EPWA",
+				"name" : "Warsaw Chopin Airport",
+				"latitude" : 52.16569901,
+				"longitude" : 20.96710014,
+				"elevation [m]" : 110,
+				"continent" : "EU",
+				"municipality" : "Warsaw",
+				"website" : "http://www.lotnisko-chopina.pl/?lang=en"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.27980042, 57.66279984, 154 ]
+			},
+			"properties" : {
+				"ident" : "ESGG",
+				"name" : "Gothenburg-Landvetter Airport",
+				"latitude" : 57.66279984,
+				"longitude" : 12.27980042,
+				"elevation [m]" : 154,
+				"continent" : "EU",
+				"municipality" : "Gothenburg",
+				"website" : "https://www.swedavia.com/landvetter/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 17.91860008, 59.65190125, 42 ]
+			},
+			"properties" : {
+				"ident" : "ESSA",
+				"name" : "Stockholm-Arlanda Airport",
+				"latitude" : 59.65190125,
+				"longitude" : 17.91860008,
+				"elevation [m]" : 42,
+				"continent" : "EU",
+				"municipality" : "Stockholm",
+				"website" : "http://www.swedavia.se/arlanda/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 23.9711, 56.923599, 11 ]
+			},
+			"properties" : {
+				"ident" : "EVRA",
+				"name" : "Riga International Airport",
+				"latitude" : 56.923599,
+				"longitude" : 23.9711,
+				"elevation [m]" : 11,
+				"continent" : "EU",
+				"municipality" : "Riga",
+				"website" : "http://www.riga-airport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 25.285801, 54.634102, 198 ]
+			},
+			"properties" : {
+				"ident" : "EYVI",
+				"name" : "Vilnius International Airport",
+				"latitude" : 54.634102,
+				"longitude" : 25.285801,
+				"elevation [m]" : 198,
+				"continent" : "EU",
+				"municipality" : "Vilnius",
+				"website" : "http://www.vilnius-airport.lt/en/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 18.60169983, -33.96480179, 46 ]
+			},
+			"properties" : {
+				"ident" : "FACT",
+				"name" : "Cape Town International Airport",
+				"latitude" : -33.96480179,
+				"longitude" : 18.60169983,
+				"elevation [m]" : 46,
+				"continent" : "AF",
+				"municipality" : "Cape Town",
+				"website" : "http://www.airports.co.za/home.asp?pid=229"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 31.11972222, -29.61444444, 90 ]
+			},
+			"properties" : {
+				"ident" : "FALE",
+				"name" : "King Shaka International Airport",
+				"latitude" : -29.61444444,
+				"longitude" : 31.11972222,
+				"elevation [m]" : 90,
+				"continent" : "AF",
+				"municipality" : "Durban",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.246, -26.1392, 1694 ]
+			},
+			"properties" : {
+				"ident" : "FAOR",
+				"name" : "OR Tambo International Airport",
+				"latitude" : -26.1392,
+				"longitude" : 28.246,
+				"elevation [m]" : 1694,
+				"continent" : "AF",
+				"municipality" : "Johannesburg",
+				"website" : "https://ortambo-airport.com/index.html"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 25.9182, -24.555201, 1005 ]
+			},
+			"properties" : {
+				"ident" : "FBSK",
+				"name" : "Sir Seretse Khama International Airport",
+				"latitude" : -24.555201,
+				"longitude" : 25.9182,
+				"elevation [m]" : 1005,
+				"continent" : "AF",
+				"municipality" : "Gaborone",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 31.716944, -26.358611, 333 ]
+			},
+			"properties" : {
+				"ident" : "FDSK",
+				"name" : "King Mswati III International Airport",
+				"latitude" : -26.358611,
+				"longitude" : 31.716944,
+				"elevation [m]" : 333,
+				"continent" : "AF",
+				"municipality" : "Mpaka",
+				"website" : "http://www.eswacaa.co.sz/airports/kingmswatiIII/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 57.683601, -20.430201, 57 ]
+			},
+			"properties" : {
+				"ident" : "FIMP",
+				"name" : "Sir Seewoosagur Ramgoolam International Airport",
+				"latitude" : -20.430201,
+				"longitude" : 57.683601,
+				"elevation [m]" : 57,
+				"continent" : "AF",
+				"municipality" : "Plaine Magnein",
+				"website" : "http://aml.mru.aero/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.452722, -15.330833, 1152 ]
+			},
+			"properties" : {
+				"ident" : "FLLS",
+				"name" : "Kenneth Kaunda International Airport",
+				"latitude" : -15.330833,
+				"longitude" : 28.452722,
+				"elevation [m]" : 1152,
+				"continent" : "AF",
+				"municipality" : "Lusaka",
+				"website" : "http://www.nacl.co.zm/?page_id=336"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 55.5103, -20.8871, 20 ]
+			},
+			"properties" : {
+				"ident" : "FMEE",
+				"name" : "Roland Garros Airport",
+				"latitude" : -20.8871,
+				"longitude" : 55.5103,
+				"elevation [m]" : 20,
+				"continent" : "AF",
+				"municipality" : "St Denis",
+				"website" : "http://www.reunion.aeroport.fr/index.htm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 47.478802, -18.7969, 1279 ]
+			},
+			"properties" : {
+				"ident" : "FMMI",
+				"name" : "Ivato Airport",
+				"latitude" : -18.7969,
+				"longitude" : 47.478802,
+				"elevation [m]" : 1279,
+				"continent" : "AF",
+				"municipality" : "Antananarivo",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.2312, -8.85837, 74 ]
+			},
+			"properties" : {
+				"ident" : "FNLU",
+				"name" : "Quatro de Fevereiro International Airport",
+				"latitude" : -8.85837,
+				"longitude" : 13.2312,
+				"elevation [m]" : 74,
+				"continent" : "AF",
+				"municipality" : "Luanda",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 32.572601, -25.920799, 44 ]
+			},
+			"properties" : {
+				"ident" : "FQMA",
+				"name" : "Maputo Airport",
+				"latitude" : -25.920799,
+				"longitude" : 32.572601,
+				"elevation [m]" : 44,
+				"continent" : "AF",
+				"municipality" : "Maputo",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 55.521801, -4.67434, 3 ]
+			},
+			"properties" : {
+				"ident" : "FSIA",
+				"name" : "Seychelles International Airport",
+				"latitude" : -4.67434,
+				"longitude" : 55.521801,
+				"elevation [m]" : 3,
+				"continent" : "AF",
+				"municipality" : "Mahe Island",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 15.034, 12.1337, 295 ]
+			},
+			"properties" : {
+				"ident" : "FTTJ",
+				"name" : "N'Djamena International Airport",
+				"latitude" : 12.1337,
+				"longitude" : 15.034,
+				"elevation [m]" : 295,
+				"continent" : "AF",
+				"municipality" : "N'Djamena",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 31.0928, -17.931801, 1489 ]
+			},
+			"properties" : {
+				"ident" : "FVHA",
+				"name" : "Robert Gabriel Mugabe International Airport",
+				"latitude" : -17.931801,
+				"longitude" : 31.0928,
+				"elevation [m]" : 1489,
+				"continent" : "AF",
+				"municipality" : "Harare",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 17.4709, -22.4799, 1719 ]
+			},
+			"properties" : {
+				"ident" : "FYWH",
+				"name" : "Hosea Kutako International Airport",
+				"latitude" : -22.4799,
+				"longitude" : 17.4709,
+				"elevation [m]" : 1719,
+				"continent" : "AF",
+				"municipality" : "Windhoek",
+				"website" : "http://airports.com.na/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 15.4446, -4.38575, 313 ]
+			},
+			"properties" : {
+				"ident" : "FZAA",
+				"name" : "Ndjili International Airport",
+				"latitude" : -4.38575,
+				"longitude" : 15.4446,
+				"elevation [m]" : 313,
+				"continent" : "AF",
+				"municipality" : "Kinshasa",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -7.94994, 12.5335, 380 ]
+			},
+			"properties" : {
+				"ident" : "GABS",
+				"name" : "Modibo Keita International Airport",
+				"latitude" : 12.5335,
+				"longitude" : -7.94994,
+				"elevation [m]" : 380,
+				"continent" : "AF",
+				"municipality" : "Bamako",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -16.652201, 13.338, 29 ]
+			},
+			"properties" : {
+				"ident" : "GBYD",
+				"name" : "Banjul International Airport",
+				"latitude" : 13.338,
+				"longitude" : -16.652201,
+				"elevation [m]" : 29,
+				"continent" : "AF",
+				"municipality" : "Banjul",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -13.8638, 28.4527, 26 ]
+			},
+			"properties" : {
+				"ident" : "GCFV",
+				"name" : "Fuerteventura Airport",
+				"latitude" : 28.4527,
+				"longitude" : -13.8638,
+				"elevation [m]" : 26,
+				"continent" : "AF",
+				"municipality" : "El Matorral",
+				"website" : "https://www.aena.es/en/fuerteventura.html"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -15.3866, 27.9319, 24 ]
+			},
+			"properties" : {
+				"ident" : "GCLP",
+				"name" : "Gran Canaria Airport",
+				"latitude" : 27.9319,
+				"longitude" : -15.3866,
+				"elevation [m]" : 24,
+				"continent" : "AF",
+				"municipality" : "Gran Canaria Island",
+				"website" : "https://www.aena.es/en/gran-canaria.html"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -13.6052, 28.945499, 14 ]
+			},
+			"properties" : {
+				"ident" : "GCRR",
+				"name" : "Cesar Manrique-Lanzarote Airport",
+				"latitude" : 28.945499,
+				"longitude" : -13.6052,
+				"elevation [m]" : 14,
+				"continent" : "AF",
+				"municipality" : "San Bartolome",
+				"website" : "https://www.aena.es/en/cesar-manrique-lanzarote.html"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -16.5725, 28.0445, 64 ]
+			},
+			"properties" : {
+				"ident" : "GCTS",
+				"name" : "Tenerife Sur Airport",
+				"latitude" : 28.0445,
+				"longitude" : -16.5725,
+				"elevation [m]" : 64,
+				"continent" : "AF",
+				"municipality" : "Tenerife",
+				"website" : "https://www.aena.es/en/tenerife-sur.html"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -13.1955, 8.61644, 26 ]
+			},
+			"properties" : {
+				"ident" : "GFLL",
+				"name" : "Lungi International Airport",
+				"latitude" : 8.61644,
+				"longitude" : -13.1955,
+				"elevation [m]" : 26,
+				"continent" : "AF",
+				"municipality" : "Freetown (Lungi-Town)",
+				"website" : "http://www.freetownairport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -10.3623, 6.23379, 9 ]
+			},
+			"properties" : {
+				"ident" : "GLRB",
+				"name" : "Roberts International Airport",
+				"latitude" : 6.23379,
+				"longitude" : -10.3623,
+				"elevation [m]" : 9,
+				"continent" : "AF",
+				"municipality" : "Monrovia",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -7.589970112, 33.36750031, 200 ]
+			},
+			"properties" : {
+				"ident" : "GMMN",
+				"name" : "Mohammed V International Airport",
+				"latitude" : 33.36750031,
+				"longitude" : -7.589970112,
+				"elevation [m]" : 200,
+				"continent" : "AF",
+				"municipality" : "Casablanca",
+				"website" : "http://www.onda.ma/ONDA/Fr/Espaces/EspacePassagers/LeReseauAeroportuaireONDA/Lesaeroports/Fiches+d%E2%80%99identit%C3%A9+par+a%C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -17.073333, 14.67, 88 ]
+			},
+			"properties" : {
+				"ident" : "GOBD",
+				"name" : "Blaise Diagne International Airport",
+				"latitude" : 14.67,
+				"longitude" : -17.073333,
+				"elevation [m]" : 88,
+				"continent" : "AF",
+				"municipality" : "Dakar",
+				"website" : "http://www.dakaraeroport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -15.9697222, 18.31, 3 ]
+			},
+			"properties" : {
+				"ident" : "GQNO",
+				"name" : "Nouakchottâ€“Oumtounsy International Airport",
+				"latitude" : 18.31,
+				"longitude" : -15.9697222,
+				"elevation [m]" : 3,
+				"continent" : "AF",
+				"municipality" : "Nouakchott",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -22.9494, 16.7414, 54 ]
+			},
+			"properties" : {
+				"ident" : "GVAC",
+				"name" : "AmÃ­lcar Cabral International Airport",
+				"latitude" : 16.7414,
+				"longitude" : -22.9494,
+				"elevation [m]" : 54,
+				"continent" : "AF",
+				"municipality" : "Espargos",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 38.799301, 8.97789, 2326 ]
+			},
+			"properties" : {
+				"ident" : "HAAB",
+				"name" : "Addis Ababa Bole International Airport",
+				"latitude" : 8.97789,
+				"longitude" : 38.799301,
+				"elevation [m]" : 2326,
+				"continent" : "AF",
+				"municipality" : "Addis Ababa",
+				"website" : "http://www.ethiopianairports.com"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 43.1595, 11.5473, 15 ]
+			},
+			"properties" : {
+				"ident" : "HDAM",
+				"name" : "Djibouti-Ambouli Airport",
+				"latitude" : 11.5473,
+				"longitude" : 43.1595,
+				"elevation [m]" : 15,
+				"continent" : "AF",
+				"municipality" : "Djibouti City",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 31.396694, 30.111534, 98 ]
+			},
+			"properties" : {
+				"ident" : "HECA",
+				"name" : "Cairo International Airport",
+				"latitude" : 30.111534,
+				"longitude" : 31.396694,
+				"elevation [m]" : 98,
+				"continent" : "AF",
+				"municipality" : "Cairo",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 33.796692, 27.176776, 10 ]
+			},
+			"properties" : {
+				"ident" : "HEGN",
+				"name" : "Hurghada International Airport",
+				"latitude" : 27.176776,
+				"longitude" : 33.796692,
+				"elevation [m]" : 10,
+				"continent" : "AF",
+				"municipality" : "Hurghada",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 34.394717, 27.977272, 58 ]
+			},
+			"properties" : {
+				"ident" : "HESH",
+				"name" : "Sharm El Sheikh International Airport",
+				"latitude" : 27.977272,
+				"longitude" : 34.394717,
+				"elevation [m]" : 58,
+				"continent" : "AF",
+				"municipality" : "Sharm El Sheikh",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 31.601101, 4.87201, 461 ]
+			},
+			"properties" : {
+				"ident" : "HJJJ",
+				"name" : "Juba International Airport",
+				"latitude" : 4.87201,
+				"longitude" : 31.601101,
+				"elevation [m]" : 461,
+				"continent" : "AF",
+				"municipality" : "Juba",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 36.92779922, -1.319239974, 1625 ]
+			},
+			"properties" : {
+				"ident" : "HKJK",
+				"name" : "Jomo Kenyatta International Airport",
+				"latitude" : -1.319239974,
+				"longitude" : 36.92779922,
+				"elevation [m]" : 1625,
+				"continent" : "AF",
+				"municipality" : "Nairobi",
+				"website" : "http://www.kenyaairports.com/jkia/IndexJkia.php"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 39.5942, -4.03483, 61 ]
+			},
+			"properties" : {
+				"ident" : "HKMO",
+				"name" : "Moi International Airport",
+				"latitude" : -4.03483,
+				"longitude" : 39.5942,
+				"elevation [m]" : 61,
+				"continent" : "AF",
+				"municipality" : "Mombasa",
+				"website" : "http://www.kenyaairports.co.ke/kaa/airports/moi/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.287878, 32.89177, 11 ]
+			},
+			"properties" : {
+				"ident" : "HLLM",
+				"name" : "Mitiga International Airport",
+				"latitude" : 32.89177,
+				"longitude" : 13.287878,
+				"elevation [m]" : 11,
+				"continent" : "AF",
+				"municipality" : "Tripoli",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 30.1395, -1.96863, 1481 ]
+			},
+			"properties" : {
+				"ident" : "HRYR",
+				"name" : "Kigali International Airport",
+				"latitude" : -1.96863,
+				"longitude" : 30.1395,
+				"elevation [m]" : 1481,
+				"continent" : "AF",
+				"municipality" : "Kigali",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 32.5532, 15.5895, 386 ]
+			},
+			"properties" : {
+				"ident" : "HSSK",
+				"name" : "Khartoum International Airport",
+				"latitude" : 15.5895,
+				"longitude" : 32.5532,
+				"elevation [m]" : 386,
+				"continent" : "AF",
+				"municipality" : "Khartoum",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 39.202599, -6.87811, 55 ]
+			},
+			"properties" : {
+				"ident" : "HTDA",
+				"name" : "Julius Nyerere International Airport",
+				"latitude" : -6.87811,
+				"longitude" : 39.202599,
+				"elevation [m]" : 55,
+				"continent" : "AF",
+				"municipality" : "Dar es Salaam",
+				"website" : "http://www.tanzaniairports.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 39.224899, -6.22202, 16 ]
+			},
+			"properties" : {
+				"ident" : "HTZA",
+				"name" : "Abeid Amani Karume International Airport",
+				"latitude" : -6.22202,
+				"longitude" : 39.224899,
+				"elevation [m]" : 16,
+				"continent" : "AF",
+				"municipality" : "Zanzibar",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 32.443501, 0.042386, 1153 ]
+			},
+			"properties" : {
+				"ident" : "HUEN",
+				"name" : "Entebbe International Airport",
+				"latitude" : 0.042386,
+				"longitude" : 32.443501,
+				"elevation [m]" : 1153,
+				"continent" : "AF",
+				"municipality" : "Kampala",
+				"website" : "https://entebbe-airport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -76.866997, 38.810799, 85 ]
+			},
+			"properties" : {
+				"ident" : "KADW",
+				"name" : "Joint Base Andrews",
+				"latitude" : 38.810799,
+				"longitude" : -76.866997,
+				"elevation [m]" : 85,
+				"continent" : "NA",
+				"municipality" : "Camp Springs",
+				"website" : "http://www.jba.af.mil/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -84.428101, 33.6367, 313 ]
+			},
+			"properties" : {
+				"ident" : "KATL",
+				"name" : "Hartsfield Jackson Atlanta International Airport",
+				"latitude" : 33.6367,
+				"longitude" : -84.428101,
+				"elevation [m]" : 313,
+				"continent" : "NA",
+				"municipality" : "Atlanta",
+				"website" : "http://www.atlanta-airport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -97.662015, 30.197535, 165 ]
+			},
+			"properties" : {
+				"ident" : "KAUS",
+				"name" : "Austin Bergstrom International Airport",
+				"latitude" : 30.197535,
+				"longitude" : -97.662015,
+				"elevation [m]" : 165,
+				"continent" : "NA",
+				"municipality" : "Austin",
+				"website" : "http://www.ci.austin.tx.us/austinairport/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -86.67819977, 36.12450027, 183 ]
+			},
+			"properties" : {
+				"ident" : "KBNA",
+				"name" : "Nashville International Airport",
+				"latitude" : 36.12450027,
+				"longitude" : -86.67819977,
+				"elevation [m]" : 183,
+				"continent" : "NA",
+				"municipality" : "Nashville",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.005203, 42.3643, 6 ]
+			},
+			"properties" : {
+				"ident" : "KBOS",
+				"name" : "Logan International Airport",
+				"latitude" : 42.3643,
+				"longitude" : -71.005203,
+				"elevation [m]" : 6,
+				"continent" : "NA",
+				"municipality" : "Boston",
+				"website" : "http://www.massport.com/logan/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.73220062, 42.94049835, 222 ]
+			},
+			"properties" : {
+				"ident" : "KBUF",
+				"name" : "Buffalo Niagara International Airport",
+				"latitude" : 42.94049835,
+				"longitude" : -78.73220062,
+				"elevation [m]" : 222,
+				"continent" : "NA",
+				"municipality" : "Buffalo",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -76.668297, 39.1754, 44 ]
+			},
+			"properties" : {
+				"ident" : "KBWI",
+				"name" : "Baltimore/Washington International Thurgood Marshall Airport",
+				"latitude" : 39.1754,
+				"longitude" : -76.668297,
+				"elevation [m]" : 44,
+				"continent" : "NA",
+				"municipality" : "Baltimore",
+				"website" : "https://www.bwiairport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -81.84980011, 41.4117012, 241 ]
+			},
+			"properties" : {
+				"ident" : "KCLE",
+				"name" : "Cleveland Hopkins International Airport",
+				"latitude" : 41.4117012,
+				"longitude" : -81.84980011,
+				"elevation [m]" : 241,
+				"continent" : "NA",
+				"municipality" : "Cleveland",
+				"website" : "http://www.clevelandairport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -80.94309998, 35.2140007, 228 ]
+			},
+			"properties" : {
+				"ident" : "KCLT",
+				"name" : "Charlotte Douglas International Airport",
+				"latitude" : 35.2140007,
+				"longitude" : -80.94309998,
+				"elevation [m]" : 228,
+				"continent" : "NA",
+				"municipality" : "Charlotte",
+				"website" : "http://www.charlotteairport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.094002, 34.213699, 23 ]
+			},
+			"properties" : {
+				"ident" : "KCMA",
+				"name" : "Camarillo International Airport",
+				"latitude" : 34.213699,
+				"longitude" : -119.094002,
+				"elevation [m]" : 23,
+				"continent" : "NA",
+				"municipality" : "Camarillo",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -82.891899, 39.998001, 248 ]
+			},
+			"properties" : {
+				"ident" : "KCMH",
+				"name" : "John Glenn Columbus International Airport",
+				"latitude" : 39.998001,
+				"longitude" : -82.891899,
+				"elevation [m]" : 248,
+				"continent" : "NA",
+				"municipality" : "Columbus",
+				"website" : "https://flycolumbus.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -84.667801, 39.048801, 273 ]
+			},
+			"properties" : {
+				"ident" : "KCVG",
+				"name" : "Cincinnati Northern Kentucky International Airport",
+				"latitude" : 39.048801,
+				"longitude" : -84.667801,
+				"elevation [m]" : 273,
+				"continent" : "NA",
+				"municipality" : "Cincinnati / Covington",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -77.037697, 38.8521, 5 ]
+			},
+			"properties" : {
+				"ident" : "KDCA",
+				"name" : "Ronald Reagan Washington National Airport",
+				"latitude" : 38.8521,
+				"longitude" : -77.037697,
+				"elevation [m]" : 5,
+				"continent" : "NA",
+				"municipality" : "Washington",
+				"website" : "http://www.flyreagan.com/dca/reagan-national-airport"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -104.6729965, 39.86169815, 1655 ]
+			},
+			"properties" : {
+				"ident" : "KDEN",
+				"name" : "Denver International Airport",
+				"latitude" : 39.86169815,
+				"longitude" : -104.6729965,
+				"elevation [m]" : 1655,
+				"continent" : "NA",
+				"municipality" : "Denver",
+				"website" : "http://www.flydenver.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -97.038002, 32.896801, 185 ]
+			},
+			"properties" : {
+				"ident" : "KDFW",
+				"name" : "Dallas Fort Worth International Airport",
+				"latitude" : 32.896801,
+				"longitude" : -97.038002,
+				"elevation [m]" : 185,
+				"continent" : "NA",
+				"municipality" : "Dallas-Fort Worth",
+				"website" : "https://www.dfwairport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -83.35340118, 42.21239853, 197 ]
+			},
+			"properties" : {
+				"ident" : "KDTW",
+				"name" : "Detroit Metropolitan Wayne County Airport",
+				"latitude" : 42.21239853,
+				"longitude" : -83.35340118,
+				"elevation [m]" : 197,
+				"continent" : "NA",
+				"municipality" : "Detroit",
+				"website" : "http://www.metroairport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -74.168701, 40.692501, 5 ]
+			},
+			"properties" : {
+				"ident" : "KEWR",
+				"name" : "Newark Liberty International Airport",
+				"latitude" : 40.692501,
+				"longitude" : -74.168701,
+				"elevation [m]" : 5,
+				"continent" : "NA",
+				"municipality" : "Newark",
+				"website" : "http://www.panynj.gov/CommutingTravel/airports/html/newarkliberty.html"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -80.152702, 26.072599, 3 ]
+			},
+			"properties" : {
+				"ident" : "KFLL",
+				"name" : "Fort Lauderdale Hollywood International Airport",
+				"latitude" : 26.072599,
+				"longitude" : -80.152702,
+				"elevation [m]" : 3,
+				"continent" : "NA",
+				"municipality" : "Fort Lauderdale",
+				"website" : "http://www.broward.org/airport"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -77.455803, 38.9445, 95 ]
+			},
+			"properties" : {
+				"ident" : "KIAD",
+				"name" : "Washington Dulles International Airport",
+				"latitude" : 38.9445,
+				"longitude" : -77.455803,
+				"elevation [m]" : 95,
+				"continent" : "NA",
+				"municipality" : "Dulles",
+				"website" : "http://www.mwaa.com/dulles/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -95.34140015, 29.9843998, 30 ]
+			},
+			"properties" : {
+				"ident" : "KIAH",
+				"name" : "George Bush Intercontinental Houston Airport",
+				"latitude" : 29.9843998,
+				"longitude" : -95.34140015,
+				"elevation [m]" : 30,
+				"continent" : "NA",
+				"municipality" : "Houston",
+				"website" : "http://www.fly2houston.com/iah"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -86.294403, 39.7173, 243 ]
+			},
+			"properties" : {
+				"ident" : "KIND",
+				"name" : "Indianapolis International Airport",
+				"latitude" : 39.7173,
+				"longitude" : -86.294403,
+				"elevation [m]" : 243,
+				"continent" : "NA",
+				"municipality" : "Indianapolis",
+				"website" : "http://www.indianapolisairport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -81.68789673, 30.49410057, 9 ]
+			},
+			"properties" : {
+				"ident" : "KJAX",
+				"name" : "Jacksonville International Airport",
+				"latitude" : 30.49410057,
+				"longitude" : -81.68789673,
+				"elevation [m]" : 9,
+				"continent" : "NA",
+				"municipality" : "Jacksonville",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.779317, 40.639447, 4 ]
+			},
+			"properties" : {
+				"ident" : "KJFK",
+				"name" : "John F Kennedy International Airport",
+				"latitude" : 40.639447,
+				"longitude" : -73.779317,
+				"elevation [m]" : 4,
+				"continent" : "NA",
+				"municipality" : "New York",
+				"website" : "https://www.jfkairport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -115.151817, 36.083361, 665 ]
+			},
+			"properties" : {
+				"ident" : "KLAS",
+				"name" : "Harry Reid International Airport",
+				"latitude" : 36.083361,
+				"longitude" : -115.151817,
+				"elevation [m]" : 665,
+				"continent" : "NA",
+				"municipality" : "Las Vegas",
+				"website" : "https://www.harryreidairport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -118.407997, 33.942501, 38 ]
+			},
+			"properties" : {
+				"ident" : "KLAX",
+				"name" : "Los Angeles International Airport",
+				"latitude" : 33.942501,
+				"longitude" : -118.407997,
+				"elevation [m]" : 38,
+				"continent" : "NA",
+				"municipality" : "Los Angeles",
+				"website" : "https://www.flylax.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.872597, 40.777199, 6 ]
+			},
+			"properties" : {
+				"ident" : "KLGA",
+				"name" : "La Guardia Airport",
+				"latitude" : 40.777199,
+				"longitude" : -73.872597,
+				"elevation [m]" : 6,
+				"continent" : "NA",
+				"municipality" : "New York",
+				"website" : "https://www.laguardiaairport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -94.713898, 39.2976, 313 ]
+			},
+			"properties" : {
+				"ident" : "KMCI",
+				"name" : "Kansas City International Airport",
+				"latitude" : 39.2976,
+				"longitude" : -94.713898,
+				"elevation [m]" : 313,
+				"continent" : "NA",
+				"municipality" : "Kansas City",
+				"website" : "http://www.flykci.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -81.30899811, 28.42939949, 29 ]
+			},
+			"properties" : {
+				"ident" : "KMCO",
+				"name" : "Orlando International Airport",
+				"latitude" : 28.42939949,
+				"longitude" : -81.30899811,
+				"elevation [m]" : 29,
+				"continent" : "NA",
+				"municipality" : "Orlando",
+				"website" : "http://www.orlandoairports.net/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -87.752403, 41.785999, 189 ]
+			},
+			"properties" : {
+				"ident" : "KMDW",
+				"name" : "Chicago Midway International Airport",
+				"latitude" : 41.785999,
+				"longitude" : -87.752403,
+				"elevation [m]" : 189,
+				"continent" : "NA",
+				"municipality" : "Chicago",
+				"website" : "https://www.flychicago.com/midway/home/pages/default.aspx"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -89.97669983, 35.04240036, 104 ]
+			},
+			"properties" : {
+				"ident" : "KMEM",
+				"name" : "Memphis International Airport",
+				"latitude" : 35.04240036,
+				"longitude" : -89.97669983,
+				"elevation [m]" : 104,
+				"continent" : "NA",
+				"municipality" : "Memphis",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -80.29060364, 25.79319954, 2 ]
+			},
+			"properties" : {
+				"ident" : "KMIA",
+				"name" : "Miami International Airport",
+				"latitude" : 25.79319954,
+				"longitude" : -80.29060364,
+				"elevation [m]" : 2,
+				"continent" : "NA",
+				"municipality" : "Miami",
+				"website" : "http://www.miami-airport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -87.89659882, 42.94720078, 220 ]
+			},
+			"properties" : {
+				"ident" : "KMKE",
+				"name" : "General Mitchell International Airport",
+				"latitude" : 42.94720078,
+				"longitude" : -87.89659882,
+				"elevation [m]" : 220,
+				"continent" : "NA",
+				"municipality" : "Milwaukee",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -93.221802, 44.882, 256 ]
+			},
+			"properties" : {
+				"ident" : "KMSP",
+				"name" : "Minneapolisâ€“Saint Paul International Airport / Woldâ€“Chamberlain Field",
+				"latitude" : 44.882,
+				"longitude" : -93.221802,
+				"elevation [m]" : 256,
+				"continent" : "NA",
+				"municipality" : "Minneapolis",
+				"website" : "http://www.mspairport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -90.25800323, 29.99340057, 1 ]
+			},
+			"properties" : {
+				"ident" : "KMSY",
+				"name" : "Louis Armstrong New Orleans International Airport",
+				"latitude" : 29.99340057,
+				"longitude" : -90.25800323,
+				"elevation [m]" : 1,
+				"continent" : "NA",
+				"municipality" : "New Orleans",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.221001, 37.721298, 3 ]
+			},
+			"properties" : {
+				"ident" : "KOAK",
+				"name" : "Metropolitan Oakland International Airport",
+				"latitude" : 37.721298,
+				"longitude" : -122.221001,
+				"elevation [m]" : 3,
+				"continent" : "NA",
+				"municipality" : "Oakland",
+				"website" : "http://www.oaklandairport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.6009979, 34.05599976, 288 ]
+			},
+			"properties" : {
+				"ident" : "KONT",
+				"name" : "Ontario International Airport",
+				"latitude" : 34.05599976,
+				"longitude" : -117.6009979,
+				"elevation [m]" : 288,
+				"continent" : "NA",
+				"municipality" : "Ontario",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -87.9048, 41.9786, 205 ]
+			},
+			"properties" : {
+				"ident" : "KORD",
+				"name" : "Chicago O'Hare International Airport",
+				"latitude" : 41.9786,
+				"longitude" : -87.9048,
+				"elevation [m]" : 205,
+				"continent" : "NA",
+				"municipality" : "Chicago",
+				"website" : "https://www.flychicago.com/ohare/home/pages/default.aspx"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -80.09559631, 26.68320084, 6 ]
+			},
+			"properties" : {
+				"ident" : "KPBI",
+				"name" : "Palm Beach International Airport",
+				"latitude" : 26.68320084,
+				"longitude" : -80.09559631,
+				"elevation [m]" : 6,
+				"continent" : "NA",
+				"municipality" : "West Palm Beach",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.5979996, 45.58869934, 9 ]
+			},
+			"properties" : {
+				"ident" : "KPDX",
+				"name" : "Portland International Airport",
+				"latitude" : 45.58869934,
+				"longitude" : -122.5979996,
+				"elevation [m]" : 9,
+				"continent" : "NA",
+				"municipality" : "Portland",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -75.2410965, 39.87189865, 11 ]
+			},
+			"properties" : {
+				"ident" : "KPHL",
+				"name" : "Philadelphia International Airport",
+				"latitude" : 39.87189865,
+				"longitude" : -75.2410965,
+				"elevation [m]" : 11,
+				"continent" : "NA",
+				"municipality" : "Philadelphia",
+				"website" : "http://www.phl.org/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -112.005905, 33.435302, 346 ]
+			},
+			"properties" : {
+				"ident" : "KPHX",
+				"name" : "Phoenix Sky Harbor International Airport",
+				"latitude" : 33.435302,
+				"longitude" : -112.005905,
+				"elevation [m]" : 346,
+				"continent" : "NA",
+				"municipality" : "Phoenix",
+				"website" : "http://phoenix.gov/skyharborairport/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -80.23290253, 40.49150085, 367 ]
+			},
+			"properties" : {
+				"ident" : "KPIT",
+				"name" : "Pittsburgh International Airport",
+				"latitude" : 40.49150085,
+				"longitude" : -80.23290253,
+				"elevation [m]" : 367,
+				"continent" : "NA",
+				"municipality" : "Pittsburgh",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.425668, 41.725038, 17 ]
+			},
+			"properties" : {
+				"ident" : "KPVD",
+				"name" : "Theodore Francis Green State Airport",
+				"latitude" : 41.725038,
+				"longitude" : -71.425668,
+				"elevation [m]" : 17,
+				"continent" : "NA",
+				"municipality" : "Providence",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.309303, 43.646198, 23 ]
+			},
+			"properties" : {
+				"ident" : "KPWM",
+				"name" : "Portland International Jetport",
+				"latitude" : 43.646198,
+				"longitude" : -70.309303,
+				"elevation [m]" : 23,
+				"continent" : "NA",
+				"municipality" : "Portland",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.78749847, 35.87760162, 133 ]
+			},
+			"properties" : {
+				"ident" : "KRDU",
+				"name" : "Raleigh Durham International Airport",
+				"latitude" : 35.87760162,
+				"longitude" : -78.78749847,
+				"elevation [m]" : 133,
+				"continent" : "NA",
+				"municipality" : "Raleigh/Durham",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -77.31970215, 37.50519943, 51 ]
+			},
+			"properties" : {
+				"ident" : "KRIC",
+				"name" : "Richmond International Airport",
+				"latitude" : 37.50519943,
+				"longitude" : -77.31970215,
+				"elevation [m]" : 51,
+				"continent" : "NA",
+				"municipality" : "Richmond",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.7679977, 39.49909973, 1346 ]
+			},
+			"properties" : {
+				"ident" : "KRNO",
+				"name" : "Reno Tahoe International Airport",
+				"latitude" : 39.49909973,
+				"longitude" : -119.7679977,
+				"elevation [m]" : 1346,
+				"continent" : "NA",
+				"municipality" : "Reno",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -81.75520325, 26.53619957, 9 ]
+			},
+			"properties" : {
+				"ident" : "KRSW",
+				"name" : "Southwest Florida International Airport",
+				"latitude" : 26.53619957,
+				"longitude" : -81.75520325,
+				"elevation [m]" : 9,
+				"continent" : "NA",
+				"municipality" : "Fort Myers",
+				"website" : "http://www.flylcpa.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.1900024, 32.73360062, 5 ]
+			},
+			"properties" : {
+				"ident" : "KSAN",
+				"name" : "San Diego International Airport",
+				"latitude" : 32.73360062,
+				"longitude" : -117.1900024,
+				"elevation [m]" : 5,
+				"continent" : "NA",
+				"municipality" : "San Diego",
+				"website" : "http://www.san.org/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -98.469803, 29.533701, 247 ]
+			},
+			"properties" : {
+				"ident" : "KSAT",
+				"name" : "San Antonio International Airport",
+				"latitude" : 29.533701,
+				"longitude" : -98.469803,
+				"elevation [m]" : 247,
+				"continent" : "NA",
+				"municipality" : "San Antonio",
+				"website" : "https://www.sanantonio.gov/aviation"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -81.20210266, 32.12760162, 15 ]
+			},
+			"properties" : {
+				"ident" : "KSAV",
+				"name" : "Savannah Hilton Head International Airport",
+				"latitude" : 32.12760162,
+				"longitude" : -81.20210266,
+				"elevation [m]" : 15,
+				"continent" : "NA",
+				"municipality" : "Savannah",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -85.736, 38.1744, 153 ]
+			},
+			"properties" : {
+				"ident" : "KSDF",
+				"name" : "Louisville Muhammad Ali International Airport",
+				"latitude" : 38.1744,
+				"longitude" : -85.736,
+				"elevation [m]" : 153,
+				"continent" : "NA",
+				"municipality" : "Louisville",
+				"website" : "http://www.flylouisville.com"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.311134, 47.449162, 132 ]
+			},
+			"properties" : {
+				"ident" : "KSEA",
+				"name" : "Seattleâ€“Tacoma International Airport",
+				"latitude" : 47.449162,
+				"longitude" : -122.311134,
+				"elevation [m]" : 132,
+				"continent" : "NA",
+				"municipality" : "Seattle",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -81.23750305, 28.77759933, 17 ]
+			},
+			"properties" : {
+				"ident" : "KSFB",
+				"name" : "Orlando Sanford International Airport",
+				"latitude" : 28.77759933,
+				"longitude" : -81.23750305,
+				"elevation [m]" : 17,
+				"continent" : "NA",
+				"municipality" : "Orlando",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.375, 37.61899948, 4 ]
+			},
+			"properties" : {
+				"ident" : "KSFO",
+				"name" : "San Francisco International Airport",
+				"latitude" : 37.61899948,
+				"longitude" : -122.375,
+				"elevation [m]" : 4,
+				"continent" : "NA",
+				"municipality" : "San Francisco",
+				"website" : "http://www.flysfo.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -121.929188, 37.362452, 19 ]
+			},
+			"properties" : {
+				"ident" : "KSJC",
+				"name" : "Norman Y. Mineta San Jose International Airport",
+				"latitude" : 37.362452,
+				"longitude" : -121.929188,
+				"elevation [m]" : 19,
+				"continent" : "NA",
+				"municipality" : "San Jose",
+				"website" : "https://www.flysanjose.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -111.979746, 40.785749, 1288 ]
+			},
+			"properties" : {
+				"ident" : "KSLC",
+				"name" : "Salt Lake City International Airport",
+				"latitude" : 40.785749,
+				"longitude" : -111.979746,
+				"elevation [m]" : 1288,
+				"continent" : "NA",
+				"municipality" : "Salt Lake City",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -121.5910034, 38.69540024, 8 ]
+			},
+			"properties" : {
+				"ident" : "KSMF",
+				"name" : "Sacramento International Airport",
+				"latitude" : 38.69540024,
+				"longitude" : -121.5910034,
+				"elevation [m]" : 8,
+				"continent" : "NA",
+				"municipality" : "Sacramento",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.867996, 33.675701, 17 ]
+			},
+			"properties" : {
+				"ident" : "KSNA",
+				"name" : "John Wayne Airport-Orange County Airport",
+				"latitude" : 33.675701,
+				"longitude" : -117.867996,
+				"elevation [m]" : 17,
+				"continent" : "NA",
+				"municipality" : "Santa Ana",
+				"website" : "http://www.ocair.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -90.370003, 38.748697, 188 ]
+			},
+			"properties" : {
+				"ident" : "KSTL",
+				"name" : "St Louis Lambert International Airport",
+				"latitude" : 38.748697,
+				"longitude" : -90.370003,
+				"elevation [m]" : 188,
+				"continent" : "NA",
+				"municipality" : "St Louis",
+				"website" : "https://www.flystl.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -76.10630035, 43.11119843, 128 ]
+			},
+			"properties" : {
+				"ident" : "KSYR",
+				"name" : "Syracuse Hancock International Airport",
+				"latitude" : 43.11119843,
+				"longitude" : -76.10630035,
+				"elevation [m]" : 128,
+				"continent" : "NA",
+				"municipality" : "Syracuse",
+				"website" : "http://www.syrairport.org/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -82.53320313, 27.97550011, 8 ]
+			},
+			"properties" : {
+				"ident" : "KTPA",
+				"name" : "Tampa International Airport",
+				"latitude" : 27.97550011,
+				"longitude" : -82.53320313,
+				"elevation [m]" : 8,
+				"continent" : "NA",
+				"municipality" : "Tampa",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -95.88809967, 36.19839859, 206 ]
+			},
+			"properties" : {
+				"ident" : "KTUL",
+				"name" : "Tulsa International Airport",
+				"latitude" : 36.19839859,
+				"longitude" : -95.88809967,
+				"elevation [m]" : 206,
+				"continent" : "NA",
+				"municipality" : "Tulsa",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 19.72060013, 41.41469955, 38 ]
+			},
+			"properties" : {
+				"ident" : "LATI",
+				"name" : "Tirana International Airport Mother Teresa",
+				"latitude" : 41.41469955,
+				"longitude" : 19.72060013,
+				"elevation [m]" : 38,
+				"continent" : "EU",
+				"municipality" : "Tirana",
+				"website" : "http://www.tirana-airport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 27.51519966, 42.56959915, 41 ]
+			},
+			"properties" : {
+				"ident" : "LBBG",
+				"name" : "Burgas Airport",
+				"latitude" : 42.56959915,
+				"longitude" : 27.51519966,
+				"elevation [m]" : 41,
+				"continent" : "EU",
+				"municipality" : "Burgas",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 23.41143608, 42.69669342, 531 ]
+			},
+			"properties" : {
+				"ident" : "LBSF",
+				"name" : "Sofia Airport",
+				"latitude" : 42.69669342,
+				"longitude" : 23.41143608,
+				"elevation [m]" : 531,
+				"continent" : "EU",
+				"municipality" : "Sofia",
+				"website" : "http://sofia-airport.bg"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 27.8251, 43.232101, 70 ]
+			},
+			"properties" : {
+				"ident" : "LBWN",
+				"name" : "Varna Airport",
+				"latitude" : 43.232101,
+				"longitude" : 27.8251,
+				"elevation [m]" : 70,
+				"continent" : "EU",
+				"municipality" : "Varna",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 33.624901, 34.875099, 2 ]
+			},
+			"properties" : {
+				"ident" : "LCLK",
+				"name" : "Larnaca International Airport",
+				"latitude" : 34.875099,
+				"longitude" : 33.624901,
+				"elevation [m]" : 2,
+				"continent" : "AS",
+				"municipality" : "Larnaca",
+				"website" : "http://www.cyprusairports.com.cy/showpage.php?PageID=2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 16.06879997, 45.74290085, 108 ]
+			},
+			"properties" : {
+				"ident" : "LDZA",
+				"name" : "Zagreb Airport",
+				"latitude" : 45.74290085,
+				"longitude" : 16.06879997,
+				"elevation [m]" : 108,
+				"continent" : "EU",
+				"municipality" : "Zagreb",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -0.558156, 38.2822, 43 ]
+			},
+			"properties" : {
+				"ident" : "LEAL",
+				"name" : "Alicante-Elche Miguel HernÃ¡ndez Airport",
+				"latitude" : 38.2822,
+				"longitude" : -0.558156,
+				"elevation [m]" : 43,
+				"continent" : "EU",
+				"municipality" : "Alicante",
+				"website" : "https://www.aena.es/en/alicante-elche.html"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.07846, 41.2971, 4 ]
+			},
+			"properties" : {
+				"ident" : "LEBL",
+				"name" : "Josep Tarradellas Barcelona-El Prat Airport",
+				"latitude" : 41.2971,
+				"longitude" : 2.07846,
+				"elevation [m]" : 4,
+				"continent" : "EU",
+				"municipality" : "Barcelona",
+				"website" : "https://www.aena.es/en/josep-tarradellas-barcelona-el-prat.html"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.37312, 38.872898, 7 ]
+			},
+			"properties" : {
+				"ident" : "LEIB",
+				"name" : "Ibiza Airport",
+				"latitude" : 38.872898,
+				"longitude" : 1.37312,
+				"elevation [m]" : 7,
+				"continent" : "EU",
+				"municipality" : "Ibiza (Eivissa)",
+				"website" : "https://www.aena.es/en/ibiza.html"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -3.56264, 40.471926, 609 ]
+			},
+			"properties" : {
+				"ident" : "LEMD",
+				"name" : "Adolfo SuÃ¡rez Madridâ€“Barajas Airport",
+				"latitude" : 40.471926,
+				"longitude" : -3.56264,
+				"elevation [m]" : 609,
+				"continent" : "EU",
+				"municipality" : "Madrid",
+				"website" : "https://www.aena.es/en/adolfo-suarez-madrid-barajas.html"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -4.49911, 36.6749, 16 ]
+			},
+			"properties" : {
+				"ident" : "LEMG",
+				"name" : "MÃ¡laga-Costa del Sol Airport",
+				"latitude" : 36.6749,
+				"longitude" : -4.49911,
+				"elevation [m]" : 16,
+				"continent" : "EU",
+				"municipality" : "MÃ¡laga",
+				"website" : "https://www.aena.es/en/malaga-costa-del-sol.html"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.73881, 39.551701, 8 ]
+			},
+			"properties" : {
+				"ident" : "LEPA",
+				"name" : "Palma de Mallorca Airport",
+				"latitude" : 39.551701,
+				"longitude" : 2.73881,
+				"elevation [m]" : 8,
+				"continent" : "EU",
+				"municipality" : "Palma de Mallorca",
+				"website" : "https://www.aena.es/en/palma-de-mallorca.html"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -8.41514, 42.896301, 370 ]
+			},
+			"properties" : {
+				"ident" : "LEST",
+				"name" : "Santiago-RosalÃ­a de Castro Airport",
+				"latitude" : 42.896301,
+				"longitude" : -8.41514,
+				"elevation [m]" : 370,
+				"continent" : "EU",
+				"municipality" : "Santiago de Compostela",
+				"website" : "https://www.aena.es/en/santiago-rosalia-de-castro.html"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -0.715556, 44.8283, 49 ]
+			},
+			"properties" : {
+				"ident" : "LFBD",
+				"name" : "Bordeaux-Merignac Airport",
+				"latitude" : 44.8283,
+				"longitude" : -0.715556,
+				"elevation [m]" : 49,
+				"continent" : "EU",
+				"municipality" : "Bordeaux/Merignac",
+				"website" : "https://www.bordeaux.aeroport.fr/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.36382, 43.629101, 152 ]
+			},
+			"properties" : {
+				"ident" : "LFBO",
+				"name" : "Toulouse-Blagnac Airport",
+				"latitude" : 43.629101,
+				"longitude" : 1.36382,
+				"elevation [m]" : 152,
+				"continent" : "EU",
+				"municipality" : "Toulouse/Blagnac",
+				"website" : "http://www.toulouse.aeroport.fr/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.081111, 45.725556, 250 ]
+			},
+			"properties" : {
+				"ident" : "LFLL",
+				"name" : "Lyon Saint-Exupery Airport",
+				"latitude" : 45.725556,
+				"longitude" : 5.081111,
+				"elevation [m]" : 250,
+				"continent" : "EU",
+				"municipality" : "Lyon",
+				"website" : "https://www.lyonaeroports.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.221424103, 43.43927192, 23 ]
+			},
+			"properties" : {
+				"ident" : "LFML",
+				"name" : "Marseille Provence Airport",
+				"latitude" : 43.43927192,
+				"longitude" : 5.221424103,
+				"elevation [m]" : 23,
+				"continent" : "EU",
+				"municipality" : "Marseille",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.21587, 43.658401, 4 ]
+			},
+			"properties" : {
+				"ident" : "LFMN",
+				"name" : "Nice-CÃ´te d'Azur Airport",
+				"latitude" : 43.658401,
+				"longitude" : 7.21587,
+				"elevation [m]" : 4,
+				"continent" : "EU",
+				"municipality" : "Nice",
+				"website" : "https://www.nice.aeroport.fr/en"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.55, 49.012798, 119 ]
+			},
+			"properties" : {
+				"ident" : "LFPG",
+				"name" : "Charles de Gaulle International Airport",
+				"latitude" : 49.012798,
+				"longitude" : 2.55,
+				"elevation [m]" : 119,
+				"continent" : "EU",
+				"municipality" : "Paris",
+				"website" : "http://www.aeroportsdeparis.fr/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.37944, 48.72333, 89 ]
+			},
+			"properties" : {
+				"ident" : "LFPO",
+				"name" : "Paris-Orly Airport",
+				"latitude" : 48.72333,
+				"longitude" : 2.37944,
+				"elevation [m]" : 89,
+				"continent" : "EU",
+				"municipality" : "Paris",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.529167, 47.59, 270 ]
+			},
+			"properties" : {
+				"ident" : "LFSB",
+				"name" : "EuroAirport Basel-Mulhouse-Freiburg Airport",
+				"latitude" : 47.59,
+				"longitude" : 7.529167,
+				"elevation [m]" : 270,
+				"continent" : "EU",
+				"municipality" : "BÃ¢le/Mulhouse",
+				"website" : "http://www.euroairport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 23.9445, 37.936401, 94 ]
+			},
+			"properties" : {
+				"ident" : "LGAV",
+				"name" : "Athens Eleftherios Venizelos International Airport",
+				"latitude" : 37.936401,
+				"longitude" : 23.9445,
+				"elevation [m]" : 94,
+				"continent" : "EU",
+				"municipality" : "Athens",
+				"website" : "http://www.aia.gr"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 25.18029976, 35.33969879, 35 ]
+			},
+			"properties" : {
+				"ident" : "LGIR",
+				"name" : "Heraklion International Nikos Kazantzakis Airport",
+				"latitude" : 35.33969879,
+				"longitude" : 25.18029976,
+				"elevation [m]" : 35,
+				"continent" : "EU",
+				"municipality" : "Heraklion",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 22.97089958, 40.5196991, 7 ]
+			},
+			"properties" : {
+				"ident" : "LGTS",
+				"name" : "Thessaloniki Macedonia International Airport",
+				"latitude" : 40.5196991,
+				"longitude" : 22.97089958,
+				"elevation [m]" : 7,
+				"continent" : "EU",
+				"municipality" : "Thessaloniki",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 19.261093, 47.42976, 151 ]
+			},
+			"properties" : {
+				"ident" : "LHBP",
+				"name" : "Budapest Liszt Ferenc International Airport",
+				"latitude" : 47.42976,
+				"longitude" : 19.261093,
+				"elevation [m]" : 151,
+				"continent" : "EU",
+				"municipality" : "Budapest",
+				"website" : "http://www.bud.hu/english"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 16.760599, 41.138901, 54 ]
+			},
+			"properties" : {
+				"ident" : "LIBD",
+				"name" : "Bari Karol WojtyÅ‚a Airport",
+				"latitude" : 41.138901,
+				"longitude" : 16.760599,
+				"elevation [m]" : 54,
+				"continent" : "EU",
+				"municipality" : "Bari",
+				"website" : "http://www.seap-puglia.it/default.asp?idlingua=2&idcontenuto=25"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 17.947001, 40.6576, 14 ]
+			},
+			"properties" : {
+				"ident" : "LIBR",
+				"name" : "Brindisi Airport",
+				"latitude" : 40.6576,
+				"longitude" : 17.947001,
+				"elevation [m]" : 14,
+				"continent" : "EU",
+				"municipality" : "Brindisi",
+				"website" : "http://www.seap-puglia.it/default.asp?idlingua=2&idcontenuto=29"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 15.0664, 37.466801, 12 ]
+			},
+			"properties" : {
+				"ident" : "LICC",
+				"name" : "Catania-Fontanarossa Airport",
+				"latitude" : 37.466801,
+				"longitude" : 15.0664,
+				"elevation [m]" : 12,
+				"continent" : "EU",
+				"municipality" : "Catania",
+				"website" : "http://www.aeroporto.catania.it/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.091, 38.175999, 20 ]
+			},
+			"properties" : {
+				"ident" : "LICJ",
+				"name" : "Falconeâ€“Borsellino Airport",
+				"latitude" : 38.175999,
+				"longitude" : 13.091,
+				"elevation [m]" : 20,
+				"continent" : "EU",
+				"municipality" : "Palermo",
+				"website" : "http://www.gesap.it/index.php"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 9.05428, 39.251499, 4 ]
+			},
+			"properties" : {
+				"ident" : "LIEE",
+				"name" : "Cagliari Elmas Airport",
+				"latitude" : 39.251499,
+				"longitude" : 9.05428,
+				"elevation [m]" : 4,
+				"continent" : "EU",
+				"municipality" : "Cagliari",
+				"website" : "http://www.cagliariairport.it/en/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.72811, 45.6306, 234 ]
+			},
+			"properties" : {
+				"ident" : "LIMC",
+				"name" : "Malpensa International Airport",
+				"latitude" : 45.6306,
+				"longitude" : 8.72811,
+				"elevation [m]" : 234,
+				"continent" : "EU",
+				"municipality" : "Milan",
+				"website" : "http://www.sea-aeroportimilano.it/en/malpensa/index.phtml"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 9.70417, 45.673901, 238 ]
+			},
+			"properties" : {
+				"ident" : "LIME",
+				"name" : "Milan Bergamo Airport",
+				"latitude" : 45.673901,
+				"longitude" : 9.70417,
+				"elevation [m]" : 238,
+				"continent" : "EU",
+				"municipality" : "Milan",
+				"website" : "http://www.sacbo.it/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.64963, 45.200802, 301 ]
+			},
+			"properties" : {
+				"ident" : "LIMF",
+				"name" : "Turin Airport",
+				"latitude" : 45.200802,
+				"longitude" : 7.64963,
+				"elevation [m]" : 301,
+				"continent" : "EU",
+				"municipality" : "Torino",
+				"website" : "http://www.aeroportoditorino.it/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.2887, 44.5354, 37 ]
+			},
+			"properties" : {
+				"ident" : "LIPE",
+				"name" : "Bologna Guglielmo Marconi Airport",
+				"latitude" : 44.5354,
+				"longitude" : 11.2887,
+				"elevation [m]" : 37,
+				"continent" : "EU",
+				"municipality" : "Bologna",
+				"website" : "http://www.bologna-airport.it/?LN=UK"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 10.887303, 45.394955, 73 ]
+			},
+			"properties" : {
+				"ident" : "LIPX",
+				"name" : "Verona-Villafranca Valerio Catullo Airport",
+				"latitude" : 45.394955,
+				"longitude" : 10.887303,
+				"elevation [m]" : 73,
+				"continent" : "EU",
+				"municipality" : "Villafranca di Verona",
+				"website" : "http://www.aeroportoverona.it/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.3519, 45.505299, 2 ]
+			},
+			"properties" : {
+				"ident" : "LIPZ",
+				"name" : "Venice Marco Polo Airport",
+				"latitude" : 45.505299,
+				"longitude" : 12.3519,
+				"elevation [m]" : 2,
+				"continent" : "EU",
+				"municipality" : "Venice",
+				"website" : "http://www.veniceairport.com/core/index.jsp?_requestid=37300&language=en"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.251998, 41.804532, 4 ]
+			},
+			"properties" : {
+				"ident" : "LIRF",
+				"name" : "Romeâ€“Fiumicino Leonardo da Vinci International Airport",
+				"latitude" : 41.804532,
+				"longitude" : 12.251998,
+				"elevation [m]" : 4,
+				"continent" : "EU",
+				"municipality" : "Rome",
+				"website" : "http://www.adr.it/portal/portal/adr/Fiumicino/Leonardo_da_vinci/Header_Window?action=2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 14.2908, 40.886002, 90 ]
+			},
+			"properties" : {
+				"ident" : "LIRN",
+				"name" : "Naples International Airport",
+				"latitude" : 40.886002,
+				"longitude" : 14.2908,
+				"elevation [m]" : 90,
+				"continent" : "EU",
+				"municipality" : "Napoli",
+				"website" : "http://www.portal.gesac.it/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 10.3927, 43.683899, 2 ]
+			},
+			"properties" : {
+				"ident" : "LIRP",
+				"name" : "Pisa International Airport",
+				"latitude" : 43.683899,
+				"longitude" : 10.3927,
+				"elevation [m]" : 2,
+				"continent" : "EU",
+				"municipality" : "Pisa",
+				"website" : "http://www.pisa-airport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 14.4576, 46.223701, 388 ]
+			},
+			"properties" : {
+				"ident" : "LJLJ",
+				"name" : "Ljubljana JoÅ¾e PuÄnik Airport",
+				"latitude" : 46.223701,
+				"longitude" : 14.4576,
+				"elevation [m]" : 388,
+				"continent" : "EU",
+				"municipality" : "Ljubljana",
+				"website" : "http://www.lju-airport.si/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 14.26, 50.1008, 380 ]
+			},
+			"properties" : {
+				"ident" : "LKPR",
+				"name" : "VÃ¡clav Havel Airport Prague",
+				"latitude" : 50.1008,
+				"longitude" : 14.26,
+				"elevation [m]" : 380,
+				"continent" : "EU",
+				"municipality" : "Prague",
+				"website" : "http://www.prg.aero"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 34.88669968, 32.01139832, 41 ]
+			},
+			"properties" : {
+				"ident" : "LLBG",
+				"name" : "Ben Gurion International Airport",
+				"latitude" : 32.01139832,
+				"longitude" : 34.88669968,
+				"elevation [m]" : 41,
+				"continent" : "AS",
+				"municipality" : "Tel Aviv",
+				"website" : "http://www.iaa.gov.il/Rashat/en-US/Airports/BenGurion/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.014116, 29.727009, 88 ]
+			},
+			"properties" : {
+				"ident" : "LLER",
+				"name" : "Ramon International Airport",
+				"latitude" : 29.727009,
+				"longitude" : 35.014116,
+				"elevation [m]" : 88,
+				"continent" : "AS",
+				"municipality" : "Eilat",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 14.4775, 35.857498, 91 ]
+			},
+			"properties" : {
+				"ident" : "LMML",
+				"name" : "Malta International Airport",
+				"latitude" : 35.857498,
+				"longitude" : 14.4775,
+				"elevation [m]" : 91,
+				"continent" : "EU",
+				"municipality" : "Valletta",
+				"website" : "http://www.maltairport.com/en/home.htm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 16.5697, 48.110298, 183 ]
+			},
+			"properties" : {
+				"ident" : "LOWW",
+				"name" : "Vienna International Airport",
+				"latitude" : 48.110298,
+				"longitude" : 16.5697,
+				"elevation [m]" : 183,
+				"continent" : "EU",
+				"municipality" : "Vienna",
+				"website" : "http://www.viennaairport.com/en/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -7.965909958, 37.01440048, 7 ]
+			},
+			"properties" : {
+				"ident" : "LPFR",
+				"name" : "Faro Airport",
+				"latitude" : 37.01440048,
+				"longitude" : -7.965909958,
+				"elevation [m]" : 7,
+				"continent" : "EU",
+				"municipality" : "Faro",
+				"website" : "http://www.ana.pt/en-US/Aeroportos/algarve/Faro/Pages/HomeFaro.aspx"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -25.69790077, 37.74119949, 79 ]
+			},
+			"properties" : {
+				"ident" : "LPPD",
+				"name" : "JoÃ£o Paulo II Airport",
+				"latitude" : 37.74119949,
+				"longitude" : -25.69790077,
+				"elevation [m]" : 79,
+				"continent" : "EU",
+				"municipality" : "Ponta Delgada",
+				"website" : "http://www.ana.pt/en-US/Aeroportos/acores/PontaDelgada/Pages/Homepage-PontaDelgada.aspx"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -8.681389809, 41.24810028, 69 ]
+			},
+			"properties" : {
+				"ident" : "LPPR",
+				"name" : "Francisco de SÃ¡ Carneiro Airport",
+				"latitude" : 41.24810028,
+				"longitude" : -8.681389809,
+				"elevation [m]" : 69,
+				"continent" : "EU",
+				"municipality" : "Porto",
+				"website" : "http://www.ana.pt/en-US/Aeroportos/porto/Porto/Pages/Homepage-Porto.aspx"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -9.13592, 38.7813, 114 ]
+			},
+			"properties" : {
+				"ident" : "LPPT",
+				"name" : "Humberto Delgado Airport (Lisbon Portela Airport)",
+				"latitude" : 38.7813,
+				"longitude" : -9.13592,
+				"elevation [m]" : 114,
+				"continent" : "EU",
+				"municipality" : "Lisbon",
+				"website" : "http://www.ana.pt/en-US/Aeroportos/lisboa/Lisboa/Pages/HomeLisboa.aspx"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 26.085, 44.571111, 96 ]
+			},
+			"properties" : {
+				"ident" : "LROP",
+				"name" : "Henri CoandÄƒ International Airport",
+				"latitude" : 44.571111,
+				"longitude" : 26.085,
+				"elevation [m]" : 96,
+				"continent" : "EU",
+				"municipality" : "Bucharest",
+				"website" : "http://www.bucharestairports.ro/en/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 6.108950138, 46.23809814, 430 ]
+			},
+			"properties" : {
+				"ident" : "LSGG",
+				"name" : "Geneva Cointrin International Airport",
+				"latitude" : 46.23809814,
+				"longitude" : 6.108950138,
+				"elevation [m]" : 430,
+				"continent" : "EU",
+				"municipality" : "Geneva",
+				"website" : "http://www.gva.ch/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.548056, 47.458056, 432 ]
+			},
+			"properties" : {
+				"ident" : "LSZH",
+				"name" : "Zuerich Airport",
+				"latitude" : 47.458056,
+				"longitude" : 8.548056,
+				"elevation [m]" : 432,
+				"continent" : "EU",
+				"municipality" : "Zurich",
+				"website" : "http://www.zurich-airport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 32.99509811, 40.12810135, 952 ]
+			},
+			"properties" : {
+				"ident" : "LTAC",
+				"name" : "EsenboÄŸa International Airport",
+				"latitude" : 40.12810135,
+				"longitude" : 32.99509811,
+				"elevation [m]" : 952,
+				"continent" : "AS",
+				"municipality" : "Ankara",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 30.800501, 36.898701, 54 ]
+			},
+			"properties" : {
+				"ident" : "LTAI",
+				"name" : "Antalya International Airport",
+				"latitude" : 36.898701,
+				"longitude" : 30.800501,
+				"elevation [m]" : 54,
+				"continent" : "AS",
+				"municipality" : "Antalya",
+				"website" : "http://www.antalya.dhmi.gov.tr/havaalanlari/default.aspx?hv=4"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.823714, 40.971913, 50 ]
+			},
+			"properties" : {
+				"ident" : "LTBA",
+				"name" : "Ä°stanbul Atatuerk Airport",
+				"latitude" : 40.971913,
+				"longitude" : 28.823714,
+				"elevation [m]" : 50,
+				"continent" : "EU",
+				"municipality" : "BakÄ±rkoey, Istanbul",
+				"website" : "http://www.ataturkairport.com/eng/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 27.157, 38.2924, 126 ]
+			},
+			"properties" : {
+				"ident" : "LTBJ",
+				"name" : "Adnan Menderes International Airport",
+				"latitude" : 38.2924,
+				"longitude" : 27.157,
+				"elevation [m]" : 126,
+				"continent" : "AS",
+				"municipality" : "Ä°zmir",
+				"website" : "http://www.adnanmenderesairport.com"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.79249954, 36.71310043, 6 ]
+			},
+			"properties" : {
+				"ident" : "LTBS",
+				"name" : "Dalaman International Airport",
+				"latitude" : 36.71310043,
+				"longitude" : 28.79249954,
+				"elevation [m]" : 6,
+				"continent" : "AS",
+				"municipality" : "Dalaman",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 27.66430092, 37.25059891, 6 ]
+			},
+			"properties" : {
+				"ident" : "LTFE",
+				"name" : "Milas Bodrum International Airport",
+				"latitude" : 37.25059891,
+				"longitude" : 27.66430092,
+				"elevation [m]" : 6,
+				"continent" : "AS",
+				"municipality" : "Bodrum",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.3092, 40.898602, 95 ]
+			},
+			"properties" : {
+				"ident" : "LTFJ",
+				"name" : "Istanbul Sabiha GoekÃ§en International Airport",
+				"latitude" : 40.898602,
+				"longitude" : 29.3092,
+				"elevation [m]" : 95,
+				"continent" : "AS",
+				"municipality" : "Pendik, Istanbul",
+				"website" : "http://www.sgairport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.741951, 41.261297, 99 ]
+			},
+			"properties" : {
+				"ident" : "LTFM",
+				"name" : "Ä°stanbul Airport",
+				"latitude" : 41.261297,
+				"longitude" : 28.741951,
+				"elevation [m]" : 99,
+				"continent" : "EU",
+				"municipality" : "Arnavutkoey, Istanbul",
+				"website" : "http://www.igairport.com/en"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 21.621401, 41.961601, 238 ]
+			},
+			"properties" : {
+				"ident" : "LWSK",
+				"name" : "Skopje International Airport",
+				"latitude" : 41.961601,
+				"longitude" : 21.621401,
+				"elevation [m]" : 238,
+				"continent" : "EU",
+				"municipality" : "Skopje",
+				"website" : "http://skp.airports.com.mk/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 20.309099, 44.818401, 102 ]
+			},
+			"properties" : {
+				"ident" : "LYBE",
+				"name" : "Belgrade Nikola Tesla Airport",
+				"latitude" : 44.818401,
+				"longitude" : 20.309099,
+				"elevation [m]" : 102,
+				"continent" : "EU",
+				"municipality" : "Belgrade",
+				"website" : "http://www.beg.aero/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 19.2519, 42.359402, 43 ]
+			},
+			"properties" : {
+				"ident" : "LYPG",
+				"name" : "Podgorica Airport / Podgorica Golubovci Airbase",
+				"latitude" : 42.359402,
+				"longitude" : 19.2519,
+				"elevation [m]" : 43,
+				"continent" : "EU",
+				"municipality" : "Podgorica",
+				"website" : "http://www.montenegroairports.com/?menu=2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 17.21269989, 48.17020035, 133 ]
+			},
+			"properties" : {
+				"ident" : "LZIB",
+				"name" : "M. R. Å tefÃ¡nik Airport",
+				"latitude" : 48.17020035,
+				"longitude" : 17.21269989,
+				"elevation [m]" : 133,
+				"continent" : "EU",
+				"municipality" : "Bratislava",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.268321, 21.773697, 5 ]
+			},
+			"properties" : {
+				"ident" : "MBPV",
+				"name" : "Providenciales International Airport",
+				"latitude" : 21.773697,
+				"longitude" : -72.268321,
+				"elevation [m]" : 5,
+				"continent" : "NA",
+				"municipality" : "Providenciales",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.36340332, 18.56739998, 14 ]
+			},
+			"properties" : {
+				"ident" : "MDPC",
+				"name" : "Punta Cana International Airport",
+				"latitude" : 18.56739998,
+				"longitude" : -68.36340332,
+				"elevation [m]" : 14,
+				"continent" : "NA",
+				"municipality" : "Punta Cana",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -69.66889954, 18.42970085, 18 ]
+			},
+			"properties" : {
+				"ident" : "MDSD",
+				"name" : "Las Americas International Airport",
+				"latitude" : 18.42970085,
+				"longitude" : -69.66889954,
+				"elevation [m]" : 18,
+				"continent" : "NA",
+				"municipality" : "Santo Domingo",
+				"website" : "http://www.aerodom.com/app/do/lasamericas.aspx"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -90.527496, 14.5833, 1509 ]
+			},
+			"properties" : {
+				"ident" : "MGGT",
+				"name" : "La Aurora Airport",
+				"latitude" : 14.5833,
+				"longitude" : -90.527496,
+				"elevation [m]" : 1509,
+				"continent" : "NA",
+				"municipality" : "Guatemala City",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -76.78749847, 17.93569946, 3 ]
+			},
+			"properties" : {
+				"ident" : "MKJP",
+				"name" : "Norman Manley International Airport",
+				"latitude" : 17.93569946,
+				"longitude" : -76.78749847,
+				"elevation [m]" : 3,
+				"continent" : "NA",
+				"municipality" : "Kingston",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -99.753998, 16.757099, 5 ]
+			},
+			"properties" : {
+				"ident" : "MMAA",
+				"name" : "General Juan N Alvarez International Airport",
+				"latitude" : 16.757099,
+				"longitude" : -99.753998,
+				"elevation [m]" : 5,
+				"continent" : "NA",
+				"municipality" : "Acapulco",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -103.310997, 20.521799, 1529 ]
+			},
+			"properties" : {
+				"ident" : "MMGL",
+				"name" : "Don Miguel Hidalgo y Costilla International Airport",
+				"latitude" : 20.521799,
+				"longitude" : -103.310997,
+				"elevation [m]" : 1529,
+				"continent" : "NA",
+				"municipality" : "Guadalajara",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -111.0479965, 29.09589958, 191 ]
+			},
+			"properties" : {
+				"ident" : "MMHO",
+				"name" : "General Ignacio P. Garcia International Airport",
+				"latitude" : 29.09589958,
+				"longitude" : -111.0479965,
+				"elevation [m]" : 191,
+				"continent" : "NA",
+				"municipality" : "Hermosillo",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -99.072098, 19.4363, 2230 ]
+			},
+			"properties" : {
+				"ident" : "MMMX",
+				"name" : "Licenciado Benito Juarez International Airport",
+				"latitude" : 19.4363,
+				"longitude" : -99.072098,
+				"elevation [m]" : 2230,
+				"continent" : "NA",
+				"municipality" : "Mexico City",
+				"website" : "https://www.aicm.com.mx"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -106.265999, 23.1614, 12 ]
+			},
+			"properties" : {
+				"ident" : "MMMZ",
+				"name" : "General Rafael Buelna International Airport",
+				"latitude" : 23.1614,
+				"longitude" : -106.265999,
+				"elevation [m]" : 12,
+				"continent" : "NA",
+				"municipality" : "MazatlÃ¡n",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -105.253998, 20.680099, 7 ]
+			},
+			"properties" : {
+				"ident" : "MMPR",
+				"name" : "President Gustavo DÃ­az Ordaz International Airport",
+				"latitude" : 20.680099,
+				"longitude" : -105.253998,
+				"elevation [m]" : 7,
+				"continent" : "NA",
+				"municipality" : "Puerto Vallarta",
+				"website" : "http://vallarta.aeropuertosgap.com.mx/index.php?lang=eng"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -109.721001, 23.1518, 114 ]
+			},
+			"properties" : {
+				"ident" : "MMSD",
+				"name" : "Los Cabos International Airport",
+				"latitude" : 23.1518,
+				"longitude" : -109.721001,
+				"elevation [m]" : 114,
+				"continent" : "NA",
+				"municipality" : "San Jose del Cabo",
+				"website" : "http://loscabos.aeropuertosgap.com.mx/index.php?lang=eng"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -99.0145, 19.7458, 2246 ]
+			},
+			"properties" : {
+				"ident" : "MMSM",
+				"name" : "Santa LucÃ­a Air Force Base / General Felipe Ãngeles International Airport",
+				"latitude" : 19.7458,
+				"longitude" : -99.0145,
+				"elevation [m]" : 2246,
+				"continent" : "NA",
+				"municipality" : "Mexico City (Santa LucÃ­a)",
+				"website" : "https://www.gob.mx/nuevoaeropuertofelipeangeles"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -116.9700012, 32.54109955, 149 ]
+			},
+			"properties" : {
+				"ident" : "MMTJ",
+				"name" : "General Abelardo L. RodrÃ­guez International Airport",
+				"latitude" : 32.54109955,
+				"longitude" : -116.9700012,
+				"elevation [m]" : 149,
+				"continent" : "NA",
+				"municipality" : "Tijuana",
+				"website" : "http://aeropuertosgap.com.mx/english/airports/tijuana-airport"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -86.87709808, 21.03650093, 7 ]
+			},
+			"properties" : {
+				"ident" : "MMUN",
+				"name" : "CancÃºn International Airport",
+				"latitude" : 21.03650093,
+				"longitude" : -86.87709808,
+				"elevation [m]" : 7,
+				"continent" : "NA",
+				"municipality" : "CancÃºn",
+				"website" : "http://www.asur.com.mx/asur/ingles/aeropuertos/cancun/cancun.asp"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.38349915, 9.071359634, 41 ]
+			},
+			"properties" : {
+				"ident" : "MPTO",
+				"name" : "Tocumen International Airport",
+				"latitude" : 9.071359634,
+				"longitude" : -79.38349915,
+				"elevation [m]" : 41,
+				"continent" : "NA",
+				"municipality" : "Tocumen",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -85.544403, 10.5933, 82 ]
+			},
+			"properties" : {
+				"ident" : "MRLB",
+				"name" : "Guanacaste Airport",
+				"latitude" : 10.5933,
+				"longitude" : -85.544403,
+				"elevation [m]" : 82,
+				"continent" : "NA",
+				"municipality" : "Liberia",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -89.055702, 13.4409, 31 ]
+			},
+			"properties" : {
+				"ident" : "MSLP",
+				"name" : "MonseÃ±or Ã“scar Arnulfo Romero International Airport",
+				"latitude" : 13.4409,
+				"longitude" : -89.055702,
+				"elevation [m]" : 31,
+				"continent" : "NA",
+				"municipality" : "San Salvador (San Luis Talpa)",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.292503, 18.58, 37 ]
+			},
+			"properties" : {
+				"ident" : "MTPP",
+				"name" : "Toussaint Louverture International Airport",
+				"latitude" : 18.58,
+				"longitude" : -72.292503,
+				"elevation [m]" : 37,
+				"continent" : "NA",
+				"municipality" : "Port-au-Prince",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -82.40910339, 22.98920059, 64 ]
+			},
+			"properties" : {
+				"ident" : "MUHA",
+				"name" : "Jose MartÃ­ International Airport",
+				"latitude" : 22.98920059,
+				"longitude" : -82.40910339,
+				"elevation [m]" : 64,
+				"continent" : "NA",
+				"municipality" : "Havana",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -81.435303, 23.034401, 64 ]
+			},
+			"properties" : {
+				"ident" : "MUVR",
+				"name" : "Juan Gualberto Gomez International Airport",
+				"latitude" : 23.034401,
+				"longitude" : -81.435303,
+				"elevation [m]" : 64,
+				"continent" : "NA",
+				"municipality" : "Matanzas",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -81.35769653, 19.2928009, 2 ]
+			},
+			"properties" : {
+				"ident" : "MWCR",
+				"name" : "Owen Roberts International Airport",
+				"latitude" : 19.2928009,
+				"longitude" : -81.35769653,
+				"elevation [m]" : 2,
+				"continent" : "NA",
+				"municipality" : "Georgetown",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -77.466202, 25.039, 5 ]
+			},
+			"properties" : {
+				"ident" : "MYNN",
+				"name" : "Lynden Pindling International Airport",
+				"latitude" : 25.039,
+				"longitude" : -77.466202,
+				"elevation [m]" : 5,
+				"continent" : "NA",
+				"municipality" : "Nassau",
+				"website" : "http://www.nas.bs/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -88.303556, 17.539951, 5 ]
+			},
+			"properties" : {
+				"ident" : "MZBZ",
+				"name" : "Philip S. W. Goldson International Airport",
+				"latitude" : 17.539951,
+				"longitude" : -88.303556,
+				"elevation [m]" : 5,
+				"continent" : "NA",
+				"municipality" : "Belize City",
+				"website" : "http://www.pgiabelize.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -149.606995, -17.553699, 2 ]
+			},
+			"properties" : {
+				"ident" : "NTAA",
+				"name" : "Faa'a International Airport",
+				"latitude" : -17.553699,
+				"longitude" : -149.606995,
+				"elevation [m]" : 2,
+				"continent" : "OC",
+				"municipality" : "Papeete",
+				"website" : "https://www.aeroports-voyages.fr/en/airport/tahiti-island/PPT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 168.320007, -17.699301, 21 ]
+			},
+			"properties" : {
+				"ident" : "NVVV",
+				"name" : "Bauerfield International Airport",
+				"latitude" : -17.699301,
+				"longitude" : 168.320007,
+				"elevation [m]" : 21,
+				"continent" : "OC",
+				"municipality" : "Port Vila",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 166.473007, -22.258301, 3 ]
+			},
+			"properties" : {
+				"ident" : "NWWM",
+				"name" : "Noumea Magenta Airport",
+				"latitude" : -22.258301,
+				"longitude" : 166.473007,
+				"elevation [m]" : 3,
+				"continent" : "OC",
+				"municipality" : "Noumea",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 174.786331, -37.01199, 7 ]
+			},
+			"properties" : {
+				"ident" : "NZAA",
+				"name" : "Auckland International Airport",
+				"latitude" : -37.01199,
+				"longitude" : 174.786331,
+				"elevation [m]" : 7,
+				"continent" : "OC",
+				"municipality" : "Auckland",
+				"website" : "http://www.auckland-airport.co.nz/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 172.5319977, -43.48939896, 37 ]
+			},
+			"properties" : {
+				"ident" : "NZCH",
+				"name" : "Christchurch International Airport",
+				"latitude" : -43.48939896,
+				"longitude" : 172.5319977,
+				"elevation [m]" : 37,
+				"continent" : "OC",
+				"municipality" : "Christchurch",
+				"website" : "http://www.christchurchairport.co.nz/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 174.8049927, -41.32720184, 12 ]
+			},
+			"properties" : {
+				"ident" : "NZWN",
+				"name" : "Wellington International Airport",
+				"latitude" : -41.32720184,
+				"longitude" : 174.8049927,
+				"elevation [m]" : 12,
+				"continent" : "OC",
+				"municipality" : "Wellington",
+				"website" : "http://www.wellingtonairport.co.nz/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 50.63764, 26.267295, 2 ]
+			},
+			"properties" : {
+				"ident" : "OBBI",
+				"name" : "Bahrain International Airport",
+				"latitude" : 26.267295,
+				"longitude" : 50.63764,
+				"elevation [m]" : 2,
+				"continent" : "AS",
+				"municipality" : "Manama",
+				"website" : "http://www.bahrainairport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 49.79790115, 26.47120094, 22 ]
+			},
+			"properties" : {
+				"ident" : "OEDF",
+				"name" : "King Fahd International Airport",
+				"latitude" : 26.47120094,
+				"longitude" : 49.79790115,
+				"elevation [m]" : 22,
+				"continent" : "AS",
+				"municipality" : "Ad Dammam",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 50.152, 26.2654, 26 ]
+			},
+			"properties" : {
+				"ident" : "OEDR",
+				"name" : "King Abdulaziz Air Base",
+				"latitude" : 26.2654,
+				"longitude" : 50.152,
+				"elevation [m]" : 26,
+				"continent" : "AS",
+				"municipality" : "Dhahran",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 39.156502, 21.6796, 15 ]
+			},
+			"properties" : {
+				"ident" : "OEJN",
+				"name" : "King Abdulaziz International Airport",
+				"latitude" : 21.6796,
+				"longitude" : 39.156502,
+				"elevation [m]" : 15,
+				"continent" : "AS",
+				"municipality" : "Jeddah",
+				"website" : "http://www.jed-airport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 39.705101, 24.5534, 656 ]
+			},
+			"properties" : {
+				"ident" : "OEMA",
+				"name" : "Prince Mohammad Bin Abdulaziz Airport",
+				"latitude" : 24.5534,
+				"longitude" : 39.705101,
+				"elevation [m]" : 656,
+				"continent" : "AS",
+				"municipality" : "Medina",
+				"website" : "http://www.tibahairports.com/en-EN/Pages/Main.aspx"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 46.69879913, 24.95759964, 625 ]
+			},
+			"properties" : {
+				"ident" : "OERK",
+				"name" : "King Khaled International Airport",
+				"latitude" : 24.95759964,
+				"longitude" : 46.69879913,
+				"elevation [m]" : 625,
+				"continent" : "AS",
+				"municipality" : "Riyadh",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 51.15219879, 35.41609955, 1007 ]
+			},
+			"properties" : {
+				"ident" : "OIIE",
+				"name" : "Imam Khomeini International Airport",
+				"latitude" : 35.41609955,
+				"longitude" : 51.15219879,
+				"elevation [m]" : 1007,
+				"continent" : "AS",
+				"municipality" : "Tehran",
+				"website" : "http://www.ikia.ir/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 51.31340027, 35.68920135, 1208 ]
+			},
+			"properties" : {
+				"ident" : "OIII",
+				"name" : "Mehrabad International Airport",
+				"latitude" : 35.68920135,
+				"longitude" : 51.31340027,
+				"elevation [m]" : 1208,
+				"continent" : "AS",
+				"municipality" : "Tehran",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 59.64099884, 36.23519897, 995 ]
+			},
+			"properties" : {
+				"ident" : "OIMM",
+				"name" : "Mashhad International Airport",
+				"latitude" : 36.23519897,
+				"longitude" : 59.64099884,
+				"elevation [m]" : 995,
+				"continent" : "AS",
+				"municipality" : "Mashhad",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 52.589802, 29.5392, 1502 ]
+			},
+			"properties" : {
+				"ident" : "OISS",
+				"name" : "Shiraz Shahid Dastghaib International Airport",
+				"latitude" : 29.5392,
+				"longitude" : 52.589802,
+				"elevation [m]" : 1502,
+				"continent" : "AS",
+				"municipality" : "Shiraz",
+				"website" : "http://shirazairport.ir/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.99319839, 31.72260094, 730 ]
+			},
+			"properties" : {
+				"ident" : "OJAI",
+				"name" : "Queen Alia International Airport",
+				"latitude" : 31.72260094,
+				"longitude" : 35.99319839,
+				"elevation [m]" : 730,
+				"continent" : "AS",
+				"municipality" : "Amman",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 47.96889877, 29.22660065, 63 ]
+			},
+			"properties" : {
+				"ident" : "OKBK",
+				"name" : "Kuwait International Airport",
+				"latitude" : 29.22660065,
+				"longitude" : 47.96889877,
+				"elevation [m]" : 63,
+				"continent" : "AS",
+				"municipality" : "Kuwait City",
+				"website" : "http://www.kuwait-airport.com.kw/Index_e.htm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 35.48839951, 33.82089996, 27 ]
+			},
+			"properties" : {
+				"ident" : "OLBA",
+				"name" : "Beirut Rafic Hariri International Airport",
+				"latitude" : 33.82089996,
+				"longitude" : 35.48839951,
+				"elevation [m]" : 27,
+				"continent" : "AS",
+				"municipality" : "Beirut",
+				"website" : "http://www.beirutairport.gov.lb/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 57.634167, 19.501944, 111 ]
+			},
+			"properties" : {
+				"ident" : "OM-0003",
+				"name" : "Duqm International Airport",
+				"latitude" : 19.501944,
+				"longitude" : 57.634167,
+				"elevation [m]" : 111,
+				"continent" : "AS",
+				"municipality" : "Duqm",
+				"website" : "http://www.omanairports.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 54.651718, 24.443764, 27 ]
+			},
+			"properties" : {
+				"ident" : "OMAA",
+				"name" : "Abu Dhabi International Airport",
+				"latitude" : 24.443764,
+				"longitude" : 54.651718,
+				"elevation [m]" : 27,
+				"continent" : "AS",
+				"municipality" : "Abu Dhabi",
+				"website" : "http://www.abudhabiairport.ae/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 55.36439896, 25.25279999, 19 ]
+			},
+			"properties" : {
+				"ident" : "OMDB",
+				"name" : "Dubai International Airport",
+				"latitude" : 25.25279999,
+				"longitude" : 55.36439896,
+				"elevation [m]" : 19,
+				"continent" : "AS",
+				"municipality" : "Dubai",
+				"website" : "http://www.dubaiairport.com/dia/english/home/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 55.161389, 24.896356, 35 ]
+			},
+			"properties" : {
+				"ident" : "OMDW",
+				"name" : "Al Maktoum International Airport",
+				"latitude" : 24.896356,
+				"longitude" : 55.161389,
+				"elevation [m]" : 35,
+				"continent" : "AS",
+				"municipality" : "Jebel Ali",
+				"website" : "https://www.dubaiairports.ae/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 55.51720047, 25.32859993, 34 ]
+			},
+			"properties" : {
+				"ident" : "OMSJ",
+				"name" : "Sharjah International Airport",
+				"latitude" : 25.32859993,
+				"longitude" : 55.51720047,
+				"elevation [m]" : 34,
+				"continent" : "AS",
+				"municipality" : "Sharjah",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 58.28440094, 23.59329987, 15 ]
+			},
+			"properties" : {
+				"ident" : "OOMS",
+				"name" : "Muscat International Airport",
+				"latitude" : 23.59329987,
+				"longitude" : 58.28440094,
+				"elevation [m]" : 15,
+				"continent" : "AS",
+				"municipality" : "Muscat",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 72.82566, 33.549, 537 ]
+			},
+			"properties" : {
+				"ident" : "OPIS",
+				"name" : "Islamabad International Airport",
+				"latitude" : 33.549,
+				"longitude" : 72.82566,
+				"elevation [m]" : 537,
+				"continent" : "AS",
+				"municipality" : "Attock",
+				"website" : "http://www.islamabadairport.com.pk/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 67.160797, 24.9065, 30 ]
+			},
+			"properties" : {
+				"ident" : "OPKC",
+				"name" : "Jinnah International Airport",
+				"latitude" : 24.9065,
+				"longitude" : 67.160797,
+				"elevation [m]" : 30,
+				"continent" : "AS",
+				"municipality" : "Karachi",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 74.403603, 31.521601, 217 ]
+			},
+			"properties" : {
+				"ident" : "OPLA",
+				"name" : "Allama Iqbal International Airport",
+				"latitude" : 31.521601,
+				"longitude" : 74.403603,
+				"elevation [m]" : 217,
+				"continent" : "AS",
+				"municipality" : "Lahore",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 44.2346, 33.262501, 35 ]
+			},
+			"properties" : {
+				"ident" : "ORBI",
+				"name" : "Baghdad International Airport / New Al Muthana Air Base",
+				"latitude" : 33.262501,
+				"longitude" : 44.2346,
+				"elevation [m]" : 35,
+				"continent" : "AS",
+				"municipality" : "Baghdad",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 36.5155983, 33.41149902, 616 ]
+			},
+			"properties" : {
+				"ident" : "OSDI",
+				"name" : "Damascus International Airport",
+				"latitude" : 33.41149902,
+				"longitude" : 36.5155983,
+				"elevation [m]" : 616,
+				"continent" : "AS",
+				"municipality" : "Damascus",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 51.608056, 25.273056, 4 ]
+			},
+			"properties" : {
+				"ident" : "OTHH",
+				"name" : "Hamad International Airport",
+				"latitude" : 25.273056,
+				"longitude" : 51.608056,
+				"elevation [m]" : 4,
+				"continent" : "AS",
+				"municipality" : "Doha",
+				"website" : "http://dohahamadairport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -147.8560028, 64.81510162, 134 ]
+			},
+			"properties" : {
+				"ident" : "PAFA",
+				"name" : "Fairbanks International Airport",
+				"latitude" : 64.81510162,
+				"longitude" : -147.8560028,
+				"elevation [m]" : 134,
+				"continent" : "NA",
+				"municipality" : "Fairbanks",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -149.996002, 61.1744, 46 ]
+			},
+			"properties" : {
+				"ident" : "PANC",
+				"name" : "Ted Stevens Anchorage International Airport",
+				"latitude" : 61.1744,
+				"longitude" : -149.996002,
+				"elevation [m]" : 46,
+				"continent" : "NA",
+				"municipality" : "Anchorage",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.796005, 13.4834, 91 ]
+			},
+			"properties" : {
+				"ident" : "PGUM",
+				"name" : "Antonio B. Won Pat International Airport",
+				"latitude" : 13.4834,
+				"longitude" : 144.796005,
+				"elevation [m]" : 91,
+				"continent" : "OC",
+				"municipality" : "HagÃ¥tÃ±a",
+				"website" : "http://www.guamairport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -157.924228, 21.32062, 4 ]
+			},
+			"properties" : {
+				"ident" : "PHNL",
+				"name" : "Daniel K Inouye International Airport",
+				"latitude" : 21.32062,
+				"longitude" : -157.924228,
+				"elevation [m]" : 4,
+				"continent" : "OC",
+				"municipality" : "Honolulu",
+				"website" : "http://airports.hawaii.gov/hnl/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 120.349998, 22.577101, 9 ]
+			},
+			"properties" : {
+				"ident" : "RCKH",
+				"name" : "Kaohsiung International Airport",
+				"latitude" : 22.577101,
+				"longitude" : 120.349998,
+				"elevation [m]" : 9,
+				"continent" : "AS",
+				"municipality" : "Kaohsiung (Xiaogang)",
+				"website" : "http://www.kia.gov.tw/english/e_index.asp"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 121.233002, 25.0777, 32 ]
+			},
+			"properties" : {
+				"ident" : "RCTP",
+				"name" : "Taiwan Taoyuan International Airport",
+				"latitude" : 25.0777,
+				"longitude" : 121.233002,
+				"elevation [m]" : 32,
+				"continent" : "AS",
+				"municipality" : "Taoyuan (Dayuan)",
+				"website" : "http://www.taoyuan-airport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 140.386002, 35.764702, 43 ]
+			},
+			"properties" : {
+				"ident" : "RJAA",
+				"name" : "Narita International Airport",
+				"latitude" : 35.764702,
+				"longitude" : 140.386002,
+				"elevation [m]" : 43,
+				"continent" : "AS",
+				"municipality" : "Narita",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.244003, 34.427299, 8 ]
+			},
+			"properties" : {
+				"ident" : "RJBB",
+				"name" : "Kansai International Airport",
+				"latitude" : 34.427299,
+				"longitude" : 135.244003,
+				"elevation [m]" : 8,
+				"continent" : "AS",
+				"municipality" : "Osaka",
+				"website" : "http://www.kansai-airport.or.jp/en/index.asp"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 141.692001, 42.7752, 25 ]
+			},
+			"properties" : {
+				"ident" : "RJCC",
+				"name" : "New Chitose Airport",
+				"latitude" : 42.7752,
+				"longitude" : 141.692001,
+				"elevation [m]" : 25,
+				"continent" : "AS",
+				"municipality" : "Sapporo",
+				"website" : "http://www.new-chitose-airport.jp/language/english/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 130.451004, 33.58589935, 10 ]
+			},
+			"properties" : {
+				"ident" : "RJFF",
+				"name" : "Fukuoka Airport",
+				"latitude" : 33.58589935,
+				"longitude" : 130.451004,
+				"elevation [m]" : 10,
+				"continent" : "AS",
+				"municipality" : "Fukuoka",
+				"website" : "http://www.fuk-ab.co.jp/english/frame_index.html"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 130.7189941, 31.80340004, 276 ]
+			},
+			"properties" : {
+				"ident" : "RJFK",
+				"name" : "Kagoshima Airport",
+				"latitude" : 31.80340004,
+				"longitude" : 130.7189941,
+				"elevation [m]" : 276,
+				"continent" : "AS",
+				"municipality" : "Kagoshima",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 136.8049927, 34.85839844, 5 ]
+			},
+			"properties" : {
+				"ident" : "RJGG",
+				"name" : "Chubu Centrair International Airport",
+				"latitude" : 34.85839844,
+				"longitude" : 136.8049927,
+				"elevation [m]" : 5,
+				"continent" : "AS",
+				"municipality" : "Tokoname",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.4380035, 34.78549957, 15 ]
+			},
+			"properties" : {
+				"ident" : "RJOO",
+				"name" : "Osaka International Airport",
+				"latitude" : 34.78549957,
+				"longitude" : 135.4380035,
+				"elevation [m]" : 15,
+				"continent" : "AS",
+				"municipality" : "Osaka",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 140.917007, 38.139702, 5 ]
+			},
+			"properties" : {
+				"ident" : "RJSS",
+				"name" : "Sendai Airport",
+				"latitude" : 38.139702,
+				"longitude" : 140.917007,
+				"elevation [m]" : 5,
+				"continent" : "AS",
+				"municipality" : "Natori",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.779999, 35.552299, 11 ]
+			},
+			"properties" : {
+				"ident" : "RJTT",
+				"name" : "Tokyo Haneda International Airport",
+				"latitude" : 35.552299,
+				"longitude" : 139.779999,
+				"elevation [m]" : 11,
+				"continent" : "AS",
+				"municipality" : "Tokyo",
+				"website" : "http://www.haneda-airport.jp/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.348007, 35.748501, 141 ]
+			},
+			"properties" : {
+				"ident" : "RJTY",
+				"name" : "Yokota Air Base",
+				"latitude" : 35.748501,
+				"longitude" : 139.348007,
+				"elevation [m]" : 141,
+				"continent" : "AS",
+				"municipality" : "Fussa",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 126.382814, 34.991406, 11 ]
+			},
+			"properties" : {
+				"ident" : "RKJB",
+				"name" : "Muan International Airport",
+				"latitude" : 34.991406,
+				"longitude" : 126.382814,
+				"elevation [m]" : 11,
+				"continent" : "AS",
+				"municipality" : "Piseo-ri (Muan)",
+				"website" : "http://muan.airport.co.kr/doc/muan_eng/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 126.492548, 33.512058, 36 ]
+			},
+			"properties" : {
+				"ident" : "RKPC",
+				"name" : "Jeju International Airport",
+				"latitude" : 33.512058,
+				"longitude" : 126.492548,
+				"elevation [m]" : 36,
+				"continent" : "AS",
+				"municipality" : "Jeju City",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 128.938004, 35.179501, 2 ]
+			},
+			"properties" : {
+				"ident" : "RKPK",
+				"name" : "Gimhae International Airport",
+				"latitude" : 35.179501,
+				"longitude" : 128.938004,
+				"elevation [m]" : 2,
+				"continent" : "AS",
+				"municipality" : "Busan",
+				"website" : "https://www.airport.co.kr/gimhaeeng/index.do"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 126.4509964, 37.46910095, 7 ]
+			},
+			"properties" : {
+				"ident" : "RKSI",
+				"name" : "Incheon International Airport",
+				"latitude" : 37.46910095,
+				"longitude" : 126.4509964,
+				"elevation [m]" : 7,
+				"continent" : "AS",
+				"municipality" : "Seoul",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 126.791, 37.5583, 18 ]
+			},
+			"properties" : {
+				"ident" : "RKSS",
+				"name" : "Gimpo International Airport",
+				"latitude" : 37.5583,
+				"longitude" : 126.791,
+				"elevation [m]" : 18,
+				"continent" : "AS",
+				"municipality" : "Seoul",
+				"website" : "http://gimpo.airport.co.kr/eng/index.jsp"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 127.646004, 26.195801, 4 ]
+			},
+			"properties" : {
+				"ident" : "ROAH",
+				"name" : "Naha Airport / JASDF Naha Air Base",
+				"latitude" : 26.195801,
+				"longitude" : 127.646004,
+				"elevation [m]" : 4,
+				"continent" : "AS",
+				"municipality" : "Naha",
+				"website" : "http://www.naha-airport.co.jp/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 127.769444, 26.351667, 44 ]
+			},
+			"properties" : {
+				"ident" : "RODN",
+				"name" : "Kadena Air Base",
+				"latitude" : 26.351667,
+				"longitude" : 127.769444,
+				"elevation [m]" : 44,
+				"continent" : "AS",
+				"municipality" : "no website found",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 121.019997, 14.5086, 23 ]
+			},
+			"properties" : {
+				"ident" : "RPLL",
+				"name" : "Ninoy Aquino International Airport",
+				"latitude" : 14.5086,
+				"longitude" : 121.019997,
+				"elevation [m]" : 23,
+				"continent" : "AS",
+				"municipality" : "Manila",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 125.646004, 7.12552, 29 ]
+			},
+			"properties" : {
+				"ident" : "RPMD",
+				"name" : "Francisco Bangoy International Airport",
+				"latitude" : 7.12552,
+				"longitude" : 125.646004,
+				"elevation [m]" : 29,
+				"continent" : "AS",
+				"municipality" : "Davao",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 123.97974, 10.309261, 9 ]
+			},
+			"properties" : {
+				"ident" : "RPVM",
+				"name" : "Mactan Cebu International Airport",
+				"latitude" : 10.309261,
+				"longitude" : 123.97974,
+				"elevation [m]" : 9,
+				"continent" : "AS",
+				"municipality" : "Lapu-Lapu City",
+				"website" : "http://www.mactan-cebuairport.com.ph/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 39.44499969, 52.63499832, 194 ]
+			},
+			"properties" : {
+				"ident" : "RU-0016",
+				"name" : "Lipetsk Air Base",
+				"latitude" : 52.63499832,
+				"longitude" : 39.44499969,
+				"elevation [m]" : 194,
+				"continent" : "EU",
+				"municipality" : "Lipetsk",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 33.46390152, 68.15180206, 214 ]
+			},
+			"properties" : {
+				"ident" : "RU-4464",
+				"name" : "Olenya Air Base",
+				"latitude" : 68.15180206,
+				"longitude" : 33.46390152,
+				"elevation [m]" : 214,
+				"continent" : "EU",
+				"municipality" : "Olenegorsk",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -58.4156, -34.5592, 5 ]
+			},
+			"properties" : {
+				"ident" : "SABE",
+				"name" : "Jorge Newbery Airpark",
+				"latitude" : -34.5592,
+				"longitude" : -58.4156,
+				"elevation [m]" : 5,
+				"continent" : "SA",
+				"municipality" : "Buenos Aires",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -58.5358, -34.8222, 20 ]
+			},
+			"properties" : {
+				"ident" : "SAEZ",
+				"name" : "Minister Pistarini International Airport",
+				"latitude" : -34.8222,
+				"longitude" : -58.5358,
+				"elevation [m]" : 20,
+				"continent" : "SA",
+				"municipality" : "Buenos Aires (Ezeiza)",
+				"website" : "http://www.aa2000.com.ar/index.php"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -48.476207, -1.379279, 16 ]
+			},
+			"properties" : {
+				"ident" : "SBBE",
+				"name" : "Val de Cans/JÃºlio Cezar Ribeiro International Airport",
+				"latitude" : -1.379279,
+				"longitude" : -48.476207,
+				"elevation [m]" : 16,
+				"continent" : "SA",
+				"municipality" : "Belem",
+				"website" : "http://www.infraero.gov.br/index.php/br/aeroportos/para/aeroporto-internacional-de-belem.html"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -47.920834, -15.869167, 1066 ]
+			},
+			"properties" : {
+				"ident" : "SBBR",
+				"name" : "Presidente Juscelino Kubitschek International Airport",
+				"latitude" : -15.869167,
+				"longitude" : -47.920834,
+				"elevation [m]" : 1066,
+				"continent" : "SA",
+				"municipality" : "BrasÃ­lia",
+				"website" : "http://www.infraero.gov.br/usa/aero_prev_home.php?ai=146"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -43.966928, -19.63571, 829 ]
+			},
+			"properties" : {
+				"ident" : "SBCF",
+				"name" : "Tancredo Neves International Airport",
+				"latitude" : -19.63571,
+				"longitude" : -43.966928,
+				"elevation [m]" : 829,
+				"continent" : "SA",
+				"municipality" : "Belo Horizonte",
+				"website" : "http://www.infraero.gov.br/usa/aero_prev_home.php?ai=207"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.049702, -3.03861, 80 ]
+			},
+			"properties" : {
+				"ident" : "SBEG",
+				"name" : "Eduardo Gomes International Airport",
+				"latitude" : -3.03861,
+				"longitude" : -60.049702,
+				"elevation [m]" : 80,
+				"continent" : "SA",
+				"municipality" : "Manaus",
+				"website" : "https://airport-manaus.com.br/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -48.552502, -27.670279, 5 ]
+			},
+			"properties" : {
+				"ident" : "SBFL",
+				"name" : "HercÃ­lio Luz International Airport",
+				"latitude" : -27.670279,
+				"longitude" : -48.552502,
+				"elevation [m]" : 5,
+				"continent" : "SA",
+				"municipality" : "Florianopolis",
+				"website" : "http://www.infraero.gov.br/usa/aero_prev_home.php?ai=228"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -43.250557, -22.809999, 9 ]
+			},
+			"properties" : {
+				"ident" : "SBGL",
+				"name" : "Rio GaleÃ£o â€“ Tom Jobim International Airport",
+				"latitude" : -22.809999,
+				"longitude" : -43.250557,
+				"elevation [m]" : 9,
+				"continent" : "SA",
+				"municipality" : "Rio De Janeiro",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -46.467778, -23.431944, 750 ]
+			},
+			"properties" : {
+				"ident" : "SBGR",
+				"name" : "Guarulhos - Governador Andre Franco Montoro International Airport",
+				"latitude" : -23.431944,
+				"longitude" : -46.467778,
+				"elevation [m]" : 750,
+				"continent" : "SA",
+				"municipality" : "SÃ£o Paulo",
+				"website" : "http://www.aeroportoguarulhos.net/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -38.322498, -12.908611, 20 ]
+			},
+			"properties" : {
+				"ident" : "SBSV",
+				"name" : "Deputado Luiz Eduardo MagalhÃ£es International Airport",
+				"latitude" : -12.908611,
+				"longitude" : -38.322498,
+				"elevation [m]" : 20,
+				"continent" : "SA",
+				"municipality" : "Salvador",
+				"website" : "https://www4.infraero.gov.br/aeroportos/aeroporto-internacional-de-salvador-dep-luis-eduardo-magalhaes/web"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.78579712, -33.39300156, 474 ]
+			},
+			"properties" : {
+				"ident" : "SCEL",
+				"name" : "Comodoro Arturo Merino BenÃ­tez International Airport",
+				"latitude" : -33.39300156,
+				"longitude" : -70.78579712,
+				"elevation [m]" : 474,
+				"continent" : "SA",
+				"municipality" : "Santiago",
+				"website" : "http://www.aeropuertosantiago.cl/ingles/index.php"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.883598, -2.15742, 6 ]
+			},
+			"properties" : {
+				"ident" : "SEGU",
+				"name" : "Jose JoaquÃ­n de Olmedo International Airport",
+				"latitude" : -2.15742,
+				"longitude" : -79.883598,
+				"elevation [m]" : 6,
+				"continent" : "SA",
+				"municipality" : "Guayaquil",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.354306, -0.125399, 2390 ]
+			},
+			"properties" : {
+				"ident" : "SEQM",
+				"name" : "Mariscal Sucre International Airport",
+				"latitude" : -0.125399,
+				"longitude" : -78.354306,
+				"elevation [m]" : 2390,
+				"continent" : "SA",
+				"municipality" : "Quito",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -74.1469, 4.70159, 2548 ]
+			},
+			"properties" : {
+				"ident" : "SKBO",
+				"name" : "El Dorado International Airport",
+				"latitude" : 4.70159,
+				"longitude" : -74.1469,
+				"elevation [m]" : 2548,
+				"continent" : "SA",
+				"municipality" : "Bogota",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -63.135399, -17.6448, 373 ]
+			},
+			"properties" : {
+				"ident" : "SLVR",
+				"name" : "Viru Viru International Airport",
+				"latitude" : -17.6448,
+				"longitude" : -63.135399,
+				"elevation [m]" : 373,
+				"continent" : "SA",
+				"municipality" : "Santa Cruz",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -55.187801, 5.45283, 18 ]
+			},
+			"properties" : {
+				"ident" : "SMJP",
+				"name" : "Johan Adolf Pengel International Airport",
+				"latitude" : 5.45283,
+				"longitude" : -55.187801,
+				"elevation [m]" : 18,
+				"continent" : "SA",
+				"municipality" : "Zandery",
+				"website" : "http://www.japi-airport.com"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -52.361326, 4.819964, 8 ]
+			},
+			"properties" : {
+				"ident" : "SOCA",
+				"name" : "Cayenne â€“ Felix Eboue Airport",
+				"latitude" : 4.819964,
+				"longitude" : -52.361326,
+				"elevation [m]" : 8,
+				"continent" : "SA",
+				"municipality" : "Matoury",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -77.114305, -12.0219, 34 ]
+			},
+			"properties" : {
+				"ident" : "SPIM",
+				"name" : "Jorge ChÃ¡vez International Airport",
+				"latitude" : -12.0219,
+				"longitude" : -77.114305,
+				"elevation [m]" : 34,
+				"continent" : "SA",
+				"municipality" : "Lima",
+				"website" : "http://www.lap.com.pe/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.938797, -13.53569984, 3310 ]
+			},
+			"properties" : {
+				"ident" : "SPZO",
+				"name" : "Alejandro Velasco Astete International Airport",
+				"latitude" : -13.53569984,
+				"longitude" : -71.938797,
+				"elevation [m]" : 3310,
+				"continent" : "SA",
+				"municipality" : "Cusco",
+				"website" : "http://www.corpac.gob.pe/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -56.026497, -34.835647, 32 ]
+			},
+			"properties" : {
+				"ident" : "SUMU",
+				"name" : "Carrasco General CesÃ¡reo L. Berisso International Airport",
+				"latitude" : -34.835647,
+				"longitude" : -56.026497,
+				"elevation [m]" : 32,
+				"continent" : "SA",
+				"municipality" : "Ciudad de la Costa",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -64.692222, 10.111111, 9 ]
+			},
+			"properties" : {
+				"ident" : "SVBC",
+				"name" : "General Jose Antonio Anzoategui International Airport",
+				"latitude" : 10.111111,
+				"longitude" : -64.692222,
+				"elevation [m]" : 9,
+				"continent" : "SA",
+				"municipality" : "Barcelona",
+				"website" : "http://aigdjaa.baer.gob.ve"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -66.991222, 10.601194, 71 ]
+			},
+			"properties" : {
+				"ident" : "SVMI",
+				"name" : "Simon BolÃ­var International Airport",
+				"latitude" : 10.601194,
+				"longitude" : -66.991222,
+				"elevation [m]" : 71,
+				"continent" : "SA",
+				"municipality" : "Caracas",
+				"website" : "http://www.aeropuerto-maiquetia.com.ve/web/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 120.088171, 36.361953, 9 ]
+			},
+			"properties" : {
+				"ident" : "TAO",
+				"name" : "Qingdao Jiaodong International Airport",
+				"latitude" : 36.361953,
+				"longitude" : 120.088171,
+				"elevation [m]" : 9,
+				"continent" : "AS",
+				"municipality" : "Jiaozhou, Qingdao",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -61.003201, 14.591, 5 ]
+			},
+			"properties" : {
+				"ident" : "TFFF",
+				"name" : "Martinique Aime Cesaire International Airport",
+				"latitude" : 14.591,
+				"longitude" : -61.003201,
+				"elevation [m]" : 5,
+				"continent" : "NA",
+				"municipality" : "Fort-de-France",
+				"website" : "http://www.martinique.aeroport.fr/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -61.531799, 16.265301, 11 ]
+			},
+			"properties" : {
+				"ident" : "TFFR",
+				"name" : "Pointe-Ã -Pitre Le Raizet International  Airport",
+				"latitude" : 16.265301,
+				"longitude" : -61.531799,
+				"elevation [m]" : 11,
+				"continent" : "NA",
+				"municipality" : "Pointe-Ã -Pitre",
+				"website" : "http://www.guadeloupe.aeroport.fr/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -66.00180054, 18.43939972, 3 ]
+			},
+			"properties" : {
+				"ident" : "TJSJ",
+				"name" : "Luis Munoz Marin International Airport",
+				"latitude" : 18.43939972,
+				"longitude" : -66.00180054,
+				"elevation [m]" : 3,
+				"continent" : "NA",
+				"municipality" : "San Juan",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.952599, 13.7332, 4 ]
+			},
+			"properties" : {
+				"ident" : "TLPL",
+				"name" : "Hewanorra International Airport",
+				"latitude" : 13.7332,
+				"longitude" : -60.952599,
+				"elevation [m]" : 4,
+				"continent" : "NA",
+				"municipality" : "Vieux Fort",
+				"website" : "http://www.slaspa.com/contentPages/view/hewanorra-international-airport"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -70.015198, 12.5014, 18 ]
+			},
+			"properties" : {
+				"ident" : "TNCA",
+				"name" : "Queen Beatrix International Airport",
+				"latitude" : 12.5014,
+				"longitude" : -70.015198,
+				"elevation [m]" : 18,
+				"continent" : "NA",
+				"municipality" : "Oranjestad",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.268501, 12.131, 6 ]
+			},
+			"properties" : {
+				"ident" : "TNCB",
+				"name" : "Flamingo International Airport",
+				"latitude" : 12.131,
+				"longitude" : -68.268501,
+				"elevation [m]" : 6,
+				"continent" : "NA",
+				"municipality" : "Kralendijk, Bonaire",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -68.959801, 12.1889, 9 ]
+			},
+			"properties" : {
+				"ident" : "TNCC",
+				"name" : "Hato International Airport",
+				"latitude" : 12.1889,
+				"longitude" : -68.959801,
+				"elevation [m]" : 9,
+				"continent" : "NA",
+				"municipality" : "Willemstad",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -63.108898, 18.041, 4 ]
+			},
+			"properties" : {
+				"ident" : "TNCM",
+				"name" : "Princess Juliana International Airport",
+				"latitude" : 18.041,
+				"longitude" : -63.108898,
+				"elevation [m]" : 4,
+				"continent" : "NA",
+				"municipality" : "Saint Martin",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 77.042828, 43.354267, 681 ]
+			},
+			"properties" : {
+				"ident" : "UAAA",
+				"name" : "Almaty International Airport",
+				"latitude" : 43.354267,
+				"longitude" : 77.042828,
+				"elevation [m]" : 681,
+				"continent" : "AS",
+				"municipality" : "Almaty",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 71.466904, 51.022202, 355 ]
+			},
+			"properties" : {
+				"ident" : "UACC",
+				"name" : "Nursultan Nazarbayev International Airport",
+				"latitude" : 51.022202,
+				"longitude" : 71.466904,
+				"elevation [m]" : 355,
+				"continent" : "AS",
+				"municipality" : "Nur-Sultan",
+				"website" : "https://www.nn-airport.kz"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 74.4776001, 43.06129837, 627 ]
+			},
+			"properties" : {
+				"ident" : "UAFM",
+				"name" : "Manas International Airport",
+				"latitude" : 43.06129837,
+				"longitude" : 74.4776001,
+				"elevation [m]" : 627,
+				"continent" : "AS",
+				"municipality" : "Bishkek",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 68.549881, 43.313126, 290 ]
+			},
+			"properties" : {
+				"ident" : "UAIT",
+				"name" : "Hazrat Sultan International Airport",
+				"latitude" : 43.313126,
+				"longitude" : 68.549881,
+				"elevation [m]" : 290,
+				"continent" : "AS",
+				"municipality" : "no website found",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 50.04669952, 40.46749878, 3 ]
+			},
+			"properties" : {
+				"ident" : "UBBB",
+				"name" : "Heydar Aliyev International Airport",
+				"latitude" : 40.46749878,
+				"longitude" : 50.04669952,
+				"elevation [m]" : 3,
+				"continent" : "AS",
+				"municipality" : "Baku",
+				"website" : "http://www.airport-baku.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 44.39590073, 40.14730072, 865 ]
+			},
+			"properties" : {
+				"ident" : "UDYZ",
+				"name" : "Zvartnots International Airport",
+				"latitude" : 40.14730072,
+				"longitude" : 44.39590073,
+				"elevation [m]" : 865,
+				"continent" : "AS",
+				"municipality" : "Yerevan",
+				"website" : "http://www.aia-zvartnots.aero/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 44.95470047, 41.6692009, 495 ]
+			},
+			"properties" : {
+				"ident" : "UGTB",
+				"name" : "Tbilisi International Airport",
+				"latitude" : 41.6692009,
+				"longitude" : 44.95470047,
+				"elevation [m]" : 495,
+				"continent" : "AS",
+				"municipality" : "Tbilisi",
+				"website" : "http://www.tbilisiairport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 132.148155, 43.396256, 18 ]
+			},
+			"properties" : {
+				"ident" : "UHWW",
+				"name" : "Vladivostok International Airport",
+				"latitude" : 43.396256,
+				"longitude" : 132.148155,
+				"elevation [m]" : 18,
+				"continent" : "EU",
+				"municipality" : "Artyom",
+				"website" : "http://www.vladivostokavia.ru/en/airport/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 30.894699, 50.345001, 130 ]
+			},
+			"properties" : {
+				"ident" : "UKBB",
+				"name" : "Boryspil International Airport",
+				"latitude" : 50.345001,
+				"longitude" : 30.894699,
+				"elevation [m]" : 130,
+				"continent" : "EU",
+				"municipality" : "Boryspil",
+				"website" : "https://kbp.aero/en/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 23.9561, 49.8125, 326 ]
+			},
+			"properties" : {
+				"ident" : "UKLL",
+				"name" : "Lviv International Airport",
+				"latitude" : 49.8125,
+				"longitude" : 23.9561,
+				"elevation [m]" : 326,
+				"continent" : "EU",
+				"municipality" : "Lviv",
+				"website" : "http://www.airport.lviv.ua/index.php?id=home&L=1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 30.26250076, 59.8003006, 24 ]
+			},
+			"properties" : {
+				"ident" : "ULLI",
+				"name" : "Pulkovo Airport",
+				"latitude" : 59.8003006,
+				"longitude" : 30.26250076,
+				"elevation [m]" : 24,
+				"continent" : "EU",
+				"municipality" : "St. Petersburg",
+				"website" : "http://www.pulkovoairport.ru/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.039964, 53.888071, 204 ]
+			},
+			"properties" : {
+				"ident" : "UMMS",
+				"name" : "Minsk National Airport",
+				"latitude" : 53.888071,
+				"longitude" : 28.039964,
+				"elevation [m]" : 204,
+				"continent" : "EU",
+				"municipality" : "Minsk",
+				"website" : "http://airport.by/en"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 92.492437, 56.173077, 287 ]
+			},
+			"properties" : {
+				"ident" : "UNKL",
+				"name" : "Krasnoyarsk International Airport",
+				"latitude" : 56.173077,
+				"longitude" : 92.492437,
+				"elevation [m]" : 287,
+				"continent" : "EU",
+				"municipality" : "Krasnoyarsk",
+				"website" : "http://www.kja.aero"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 82.618675, 55.019756, 111 ]
+			},
+			"properties" : {
+				"ident" : "UNNT",
+				"name" : "Novosibirsk Tolmachevo Airport",
+				"latitude" : 55.019756,
+				"longitude" : 82.618675,
+				"elevation [m]" : 111,
+				"continent" : "EU",
+				"municipality" : "Novosibirsk",
+				"website" : "http://eng.tolmachevo.ru/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 39.924722, 47.493888, 65 ]
+			},
+			"properties" : {
+				"ident" : "URRP",
+				"name" : "Platov International Airport",
+				"latitude" : 47.493888,
+				"longitude" : 39.924722,
+				"elevation [m]" : 65,
+				"continent" : "EU",
+				"municipality" : "Rostov-on-Don",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 39.9566, 43.449902, 27 ]
+			},
+			"properties" : {
+				"ident" : "URSS",
+				"name" : "Sochi International Airport",
+				"latitude" : 43.449902,
+				"longitude" : 39.9566,
+				"elevation [m]" : 27,
+				"continent" : "EU",
+				"municipality" : "Sochi",
+				"website" : "http://basel.aero/en/sochi/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 60.80270004, 56.74309921, 233 ]
+			},
+			"properties" : {
+				"ident" : "USSS",
+				"name" : "Koltsovo Airport",
+				"latitude" : 56.74309921,
+				"longitude" : 60.80270004,
+				"elevation [m]" : 233,
+				"continent" : "AS",
+				"municipality" : "Yekaterinburg",
+				"website" : "http://www.koltsovo.ru/en/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 58.361, 37.986801, 211 ]
+			},
+			"properties" : {
+				"ident" : "UTAA",
+				"name" : "Ashgabat International Airport",
+				"latitude" : 37.986801,
+				"longitude" : 58.361,
+				"elevation [m]" : 211,
+				"continent" : "AS",
+				"municipality" : "Ashgabat",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 69.28119659, 41.25790024, 432 ]
+			},
+			"properties" : {
+				"ident" : "UTTT",
+				"name" : "Tashkent International Airport",
+				"latitude" : 41.25790024,
+				"longitude" : 69.28119659,
+				"elevation [m]" : 432,
+				"continent" : "AS",
+				"municipality" : "Tashkent",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 38.150002, 55.553299, 115 ]
+			},
+			"properties" : {
+				"ident" : "UUBW",
+				"name" : "Zhukovsky International Airport",
+				"latitude" : 55.553299,
+				"longitude" : 38.150002,
+				"elevation [m]" : 115,
+				"continent" : "EU",
+				"municipality" : "Moscow",
+				"website" : "http://zia.aero/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 37.90629959, 55.40879822, 179 ]
+			},
+			"properties" : {
+				"ident" : "UUDD",
+				"name" : "Domodedovo International Airport",
+				"latitude" : 55.40879822,
+				"longitude" : 37.90629959,
+				"elevation [m]" : 179,
+				"continent" : "EU",
+				"municipality" : "Moscow",
+				"website" : "http://www.domodedovo.ru/en/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 37.4146, 55.972599, 190 ]
+			},
+			"properties" : {
+				"ident" : "UUEE",
+				"name" : "Sheremetyevo International Airport",
+				"latitude" : 55.972599,
+				"longitude" : 37.4146,
+				"elevation [m]" : 190,
+				"continent" : "EU",
+				"municipality" : "Moscow",
+				"website" : "http://www.svo.aero/en/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 37.26150131, 55.59149933, 209 ]
+			},
+			"properties" : {
+				"ident" : "UUWW",
+				"name" : "Vnukovo International Airport",
+				"latitude" : 55.59149933,
+				"longitude" : 37.26150131,
+				"elevation [m]" : 209,
+				"continent" : "EU",
+				"municipality" : "Moscow",
+				"website" : "http://www.vnukovo.ru/eng"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 49.27870178, 55.60620117, 125 ]
+			},
+			"properties" : {
+				"ident" : "UWKD",
+				"name" : "Kazan International Airport",
+				"latitude" : 55.60620117,
+				"longitude" : 49.27870178,
+				"elevation [m]" : 125,
+				"continent" : "EU",
+				"municipality" : "Kazan",
+				"website" : "http://www.kazan.aero/en/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 46.171111, 51.712778, 31 ]
+			},
+			"properties" : {
+				"ident" : "UWSG",
+				"name" : "Gagarin International Airport",
+				"latitude" : 51.712778,
+				"longitude" : 46.171111,
+				"elevation [m]" : 31,
+				"continent" : "EU",
+				"municipality" : "Saratov",
+				"website" : "http://gsv.aero/en/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 55.87440109, 54.55749893, 137 ]
+			},
+			"properties" : {
+				"ident" : "UWUU",
+				"name" : "Ufa International Airport",
+				"latitude" : 54.55749893,
+				"longitude" : 55.87440109,
+				"elevation [m]" : 137,
+				"continent" : "EU",
+				"municipality" : "Ufa",
+				"website" : "http://www.airportufa.ru/en/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 50.16429901, 53.50490189, 145 ]
+			},
+			"properties" : {
+				"ident" : "UWWW",
+				"name" : "Kurumoch International Airport",
+				"latitude" : 53.50490189,
+				"longitude" : 50.16429901,
+				"elevation [m]" : 145,
+				"continent" : "EU",
+				"municipality" : "Samara",
+				"website" : "http://airport.samara.ru/en/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 72.86789703, 19.08869934, 12 ]
+			},
+			"properties" : {
+				"ident" : "VABB",
+				"name" : "Chhatrapati Shivaji International Airport",
+				"latitude" : 19.08869934,
+				"longitude" : 72.86789703,
+				"elevation [m]" : 12,
+				"continent" : "AS",
+				"municipality" : "Mumbai",
+				"website" : "http://www.csia.in/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 73.831398, 15.3808, 46 ]
+			},
+			"properties" : {
+				"ident" : "VAGO",
+				"name" : "Dabolim Airport",
+				"latitude" : 15.3808,
+				"longitude" : 73.831398,
+				"elevation [m]" : 46,
+				"continent" : "AS",
+				"municipality" : "Vasco da Gama",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 79.88410187, 7.180759907, 9 ]
+			},
+			"properties" : {
+				"ident" : "VCBI",
+				"name" : "Bandaranaike International Colombo Airport",
+				"latitude" : 7.180759907,
+				"longitude" : 79.88410187,
+				"elevation [m]" : 9,
+				"continent" : "AS",
+				"municipality" : "Colombo",
+				"website" : "http://www.airport.lk/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 81.124128, 6.284467, 48 ]
+			},
+			"properties" : {
+				"ident" : "VCRI",
+				"name" : "Mattala Rajapaksa International Airport",
+				"latitude" : 6.284467,
+				"longitude" : 81.124128,
+				"elevation [m]" : 48,
+				"continent" : "AS",
+				"municipality" : "no website found",
+				"website" : "http://www.mria.lk/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 104.844002, 11.5466, 12 ]
+			},
+			"properties" : {
+				"ident" : "VDPP",
+				"name" : "Phnom Penh International Airport",
+				"latitude" : 11.5466,
+				"longitude" : 104.844002,
+				"elevation [m]" : 12,
+				"continent" : "AS",
+				"municipality" : "Phnom Penh (Pou Senchey)",
+				"website" : "http://www.cambodia-airports.com/phnompenh/en/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.813044, 13.41155, 18 ]
+			},
+			"properties" : {
+				"ident" : "VDSR",
+				"name" : "Siem Reap International Airport",
+				"latitude" : 13.41155,
+				"longitude" : 103.813044,
+				"elevation [m]" : 18,
+				"continent" : "AS",
+				"municipality" : "Siem Reap",
+				"website" : "http://www.cambodia-airports.com/siemreap/en"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 88.44670105, 22.65469933, 5 ]
+			},
+			"properties" : {
+				"ident" : "VECC",
+				"name" : "Netaji Subhash Chandra Bose International Airport",
+				"latitude" : 22.65469933,
+				"longitude" : 88.44670105,
+				"elevation [m]" : 5,
+				"continent" : "AS",
+				"municipality" : "Kolkata",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 90.397783, 23.843347, 9 ]
+			},
+			"properties" : {
+				"ident" : "VGZR",
+				"name" : "Hazrat Shahjalal International Airport",
+				"latitude" : 23.843347,
+				"longitude" : 90.397783,
+				"elevation [m]" : 9,
+				"continent" : "AS",
+				"municipality" : "Dhaka",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 113.915001, 22.308901, 9 ]
+			},
+			"properties" : {
+				"ident" : "VHHH",
+				"name" : "Hong Kong International Airport",
+				"latitude" : 22.308901,
+				"longitude" : 113.915001,
+				"elevation [m]" : 9,
+				"continent" : "AS",
+				"municipality" : "Islands",
+				"website" : "http://www.hongkongairport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 77.09519, 28.55563, 237 ]
+			},
+			"properties" : {
+				"ident" : "VIDP",
+				"name" : "Indira Gandhi International Airport",
+				"latitude" : 28.55563,
+				"longitude" : 77.09519,
+				"elevation [m]" : 237,
+				"continent" : "AS",
+				"municipality" : "New Delhi",
+				"website" : "http://www.newdelhiairport.in/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 113.592003, 22.149599, 6 ]
+			},
+			"properties" : {
+				"ident" : "VMMC",
+				"name" : "Macau International Airport",
+				"latitude" : 22.149599,
+				"longitude" : 113.592003,
+				"elevation [m]" : 6,
+				"continent" : "AS",
+				"municipality" : "Nossa Senhora do Carmo",
+				"website" : "http://www.macau-airport.gov.mo/en/index.php"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 85.3591, 27.6966, 1338 ]
+			},
+			"properties" : {
+				"ident" : "VNKT",
+				"name" : "Tribhuvan International Airport",
+				"latitude" : 27.6966,
+				"longitude" : 85.3591,
+				"elevation [m]" : 1338,
+				"continent" : "AS",
+				"municipality" : "Kathmandu",
+				"website" : "http://www.tiairport.com.np/index.php"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 77.706299, 13.1979, 914 ]
+			},
+			"properties" : {
+				"ident" : "VOBL",
+				"name" : "Kempegowda International Airport",
+				"latitude" : 13.1979,
+				"longitude" : 77.706299,
+				"elevation [m]" : 914,
+				"continent" : "AS",
+				"municipality" : "Bangalore",
+				"website" : "http://www.bengaluruairport.com/home/home.jspx"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 76.401901, 10.152, 9 ]
+			},
+			"properties" : {
+				"ident" : "VOCI",
+				"name" : "Cochin International Airport",
+				"latitude" : 10.152,
+				"longitude" : 76.401901,
+				"elevation [m]" : 9,
+				"continent" : "AS",
+				"municipality" : "Kochi",
+				"website" : "http://www.cial.aero/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 78.429855, 17.231318, 617 ]
+			},
+			"properties" : {
+				"ident" : "VOHS",
+				"name" : "Rajiv Gandhi International Airport",
+				"latitude" : 17.231318,
+				"longitude" : 78.429855,
+				"elevation [m]" : 617,
+				"continent" : "AS",
+				"municipality" : "Hyderabad",
+				"website" : "http://www.hyderabad.aero/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 80.169296, 12.990005, 16 ]
+			},
+			"properties" : {
+				"ident" : "VOMM",
+				"name" : "Chennai International Airport",
+				"latitude" : 12.990005,
+				"longitude" : 80.169296,
+				"elevation [m]" : 16,
+				"continent" : "AS",
+				"municipality" : "Chennai",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 76.92009735, 8.48211956, 5 ]
+			},
+			"properties" : {
+				"ident" : "VOTV",
+				"name" : "Trivandrum International Airport",
+				"latitude" : 8.48211956,
+				"longitude" : 76.92009735,
+				"elevation [m]" : 5,
+				"continent" : "AS",
+				"municipality" : "Thiruvananthapuram",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 73.52909851, 4.191830158, 2 ]
+			},
+			"properties" : {
+				"ident" : "VRMM",
+				"name" : "Male International Airport",
+				"latitude" : 4.191830158,
+				"longitude" : 73.52909851,
+				"elevation [m]" : 2,
+				"continent" : "AS",
+				"municipality" : "Male",
+				"website" : "http://www.airports.com.mv/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 100.6070023, 13.91259956, 3 ]
+			},
+			"properties" : {
+				"ident" : "VTBD",
+				"name" : "Don Mueang International Airport",
+				"latitude" : 13.91259956,
+				"longitude" : 100.6070023,
+				"elevation [m]" : 3,
+				"continent" : "AS",
+				"municipality" : "Bangkok",
+				"website" : "http://www2.airportthai.co.th/airportnew/bangkok/index.asp?lang=en"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 100.7470016, 13.68109989, 2 ]
+			},
+			"properties" : {
+				"ident" : "VTBS",
+				"name" : "Suvarnabhumi Airport",
+				"latitude" : 13.68109989,
+				"longitude" : 100.7470016,
+				"elevation [m]" : 2,
+				"continent" : "AS",
+				"municipality" : "Bangkok",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 98.96260071, 18.76679993, 316 ]
+			},
+			"properties" : {
+				"ident" : "VTCC",
+				"name" : "Chiang Mai International Airport",
+				"latitude" : 18.76679993,
+				"longitude" : 98.96260071,
+				"elevation [m]" : 316,
+				"continent" : "AS",
+				"municipality" : "Chiang Mai",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 98.316902, 8.1132, 25 ]
+			},
+			"properties" : {
+				"ident" : "VTSP",
+				"name" : "Phuket International Airport",
+				"latitude" : 8.1132,
+				"longitude" : 98.316902,
+				"elevation [m]" : 25,
+				"continent" : "AS",
+				"municipality" : "Phuket",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 105.806999, 21.221201, 12 ]
+			},
+			"properties" : {
+				"ident" : "VVNB",
+				"name" : "Noi Bai International Airport",
+				"latitude" : 21.221201,
+				"longitude" : 105.806999,
+				"elevation [m]" : 12,
+				"continent" : "AS",
+				"municipality" : "Hanoi (Soc Son)",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 106.652, 10.8188, 10 ]
+			},
+			"properties" : {
+				"ident" : "VVTS",
+				"name" : "Tan Son Nhat International Airport",
+				"latitude" : 10.8188,
+				"longitude" : 106.652,
+				"elevation [m]" : 10,
+				"continent" : "AS",
+				"municipality" : "Ho Chi Minh City",
+				"website" : "http://www.tsnairport.hochiminhcity.gov.vn/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 95.97789764, 21.70219994, 91 ]
+			},
+			"properties" : {
+				"ident" : "VYMD",
+				"name" : "Mandalay International Airport",
+				"latitude" : 21.70219994,
+				"longitude" : 95.97789764,
+				"elevation [m]" : 91,
+				"continent" : "AS",
+				"municipality" : "Mandalay",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 96.1332016, 16.90730095, 33 ]
+			},
+			"properties" : {
+				"ident" : "VYYY",
+				"name" : "Yangon International Airport",
+				"latitude" : 16.90730095,
+				"longitude" : 96.1332016,
+				"elevation [m]" : 33,
+				"continent" : "AS",
+				"municipality" : "Yangon",
+				"website" : "http://www.yangonairportonline.com"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 119.554001, -5.06163, 14 ]
+			},
+			"properties" : {
+				"ident" : "WAAA",
+				"name" : "Hasanuddin International Airport",
+				"latitude" : -5.06163,
+				"longitude" : 119.554001,
+				"elevation [m]" : 14,
+				"continent" : "AS",
+				"municipality" : "Ujung Pandang",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 115.167, -8.74817, 4 ]
+			},
+			"properties" : {
+				"ident" : "WADD",
+				"name" : "Ngurah Rai (Bali) International Airport",
+				"latitude" : -8.74817,
+				"longitude" : 115.167,
+				"elevation [m]" : 4,
+				"continent" : "AS",
+				"municipality" : "Denpasar",
+				"website" : "http://www.angkasapura1.co.id/eng/location/bali.htm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 140.519857, -2.579627, 88 ]
+			},
+			"properties" : {
+				"ident" : "WAJJ",
+				"name" : "Dortheys Hiyo Eluay International Airport",
+				"latitude" : -2.579627,
+				"longitude" : 140.519857,
+				"elevation [m]" : 88,
+				"continent" : "AS",
+				"municipality" : "Sentani",
+				"website" : "https://sentani-airport.co.id/en"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 116.89452, -1.268342, 4 ]
+			},
+			"properties" : {
+				"ident" : "WALL",
+				"name" : "Sultan Aji Muhammad Sulaiman Sepinggan International Airport",
+				"latitude" : -1.268342,
+				"longitude" : 116.89452,
+				"elevation [m]" : 4,
+				"continent" : "AS",
+				"municipality" : "Balikpapan",
+				"website" : "http://sepinggan-airport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 112.787003, -7.37983, 3 ]
+			},
+			"properties" : {
+				"ident" : "WARR",
+				"name" : "Juanda International Airport",
+				"latitude" : -7.37983,
+				"longitude" : 112.787003,
+				"elevation [m]" : 3,
+				"continent" : "AS",
+				"municipality" : "Surabaya",
+				"website" : "http://www.juanda-airport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.928001, 4.9442, 22 ]
+			},
+			"properties" : {
+				"ident" : "WBSB",
+				"name" : "Brunei International Airport",
+				"latitude" : 4.9442,
+				"longitude" : 114.928001,
+				"elevation [m]" : 22,
+				"continent" : "AS",
+				"municipality" : "Bandar Seri Begawan",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 106.6559982, -6.12556982, 10 ]
+			},
+			"properties" : {
+				"ident" : "WIII",
+				"name" : "Soekarno-Hatta International Airport",
+				"latitude" : -6.12556982,
+				"longitude" : 106.6559982,
+				"elevation [m]" : 10,
+				"continent" : "AS",
+				"municipality" : "Jakarta",
+				"website" : "http://www.jakartasoekarnohattaairport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 101.709999, 2.74558, 21 ]
+			},
+			"properties" : {
+				"ident" : "WMKK",
+				"name" : "Kuala Lumpur International Airport",
+				"latitude" : 2.74558,
+				"longitude" : 101.709999,
+				"elevation [m]" : 21,
+				"continent" : "AS",
+				"municipality" : "Sepang",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.994003, 1.35019, 7 ]
+			},
+			"properties" : {
+				"ident" : "WSSS",
+				"name" : "Singapore Changi Airport",
+				"latitude" : 1.35019,
+				"longitude" : 103.994003,
+				"elevation [m]" : 7,
+				"continent" : "AS",
+				"municipality" : "Singapore",
+				"website" : "http://www.changiairport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 153.1170044, -27.38419914, 4 ]
+			},
+			"properties" : {
+				"ident" : "YBBN",
+				"name" : "Brisbane International Airport",
+				"latitude" : -27.38419914,
+				"longitude" : 153.1170044,
+				"elevation [m]" : 4,
+				"continent" : "OC",
+				"municipality" : "Brisbane",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.843002, -37.673302, 132 ]
+			},
+			"properties" : {
+				"ident" : "YMML",
+				"name" : "Melbourne International Airport",
+				"latitude" : -37.673302,
+				"longitude" : 144.843002,
+				"elevation [m]" : 132,
+				"continent" : "OC",
+				"municipality" : "Melbourne",
+				"website" : "http://melbourneairport.com.au/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 120.978124, 37.659724, 47 ]
+			},
+			"properties" : {
+				"ident" : "YNT",
+				"name" : "Yantai Penglai International Airport",
+				"latitude" : 37.659724,
+				"longitude" : 120.978124,
+				"elevation [m]" : 47,
+				"continent" : "AS",
+				"municipality" : "Yantai",
+				"website" : "http://www.ytairport.com.cn/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 138.533393, -34.947512, 6 ]
+			},
+			"properties" : {
+				"ident" : "YPAD",
+				"name" : "Adelaide International Airport",
+				"latitude" : -34.947512,
+				"longitude" : 138.533393,
+				"elevation [m]" : 6,
+				"continent" : "OC",
+				"municipality" : "Adelaide",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 130.88185, -12.41497, 31 ]
+			},
+			"properties" : {
+				"ident" : "YPDN",
+				"name" : "Darwin International Airport / RAAF Darwin",
+				"latitude" : -12.41497,
+				"longitude" : 130.88185,
+				"elevation [m]" : 31,
+				"continent" : "OC",
+				"municipality" : "Eaton",
+				"website" : "https://www.darwinairport.com.au/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 115.9670029, -31.94029999, 20 ]
+			},
+			"properties" : {
+				"ident" : "YPPH",
+				"name" : "Perth International Airport",
+				"latitude" : -31.94029999,
+				"longitude" : 115.9670029,
+				"elevation [m]" : 20,
+				"continent" : "OC",
+				"municipality" : "Perth",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 151.177002, -33.94609833, 6 ]
+			},
+			"properties" : {
+				"ident" : "YSSY",
+				"name" : "Sydney Kingsford Smith International Airport",
+				"latitude" : -33.94609833,
+				"longitude" : 151.177002,
+				"elevation [m]" : 6,
+				"continent" : "OC",
+				"municipality" : "Sydney",
+				"website" : "http://www.sydneyairport.com.au/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 116.5849991, 40.08010101, 35 ]
+			},
+			"properties" : {
+				"ident" : "ZBAA",
+				"name" : "Beijing Capital International Airport",
+				"latitude" : 40.08010101,
+				"longitude" : 116.5849991,
+				"elevation [m]" : 35,
+				"continent" : "AS",
+				"municipality" : "Beijing",
+				"website" : "http://en.bcia.com.cn/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 116.41092, 39.509945, 30 ]
+			},
+			"properties" : {
+				"ident" : "ZBAD",
+				"name" : "Beijing Daxing International Airport",
+				"latitude" : 39.509945,
+				"longitude" : 116.41092,
+				"elevation [m]" : 30,
+				"continent" : "AS",
+				"municipality" : "Beijing",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 111.824598, 40.849658, 1084 ]
+			},
+			"properties" : {
+				"ident" : "ZBHH",
+				"name" : "Hohhot Baita International Airport",
+				"latitude" : 40.849658,
+				"longitude" : 111.824598,
+				"elevation [m]" : 1084,
+				"continent" : "AS",
+				"municipality" : "Hohhot",
+				"website" : "http://www.hhhtbtjc.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 117.3460007, 39.12440109, 3 ]
+			},
+			"properties" : {
+				"ident" : "ZBTJ",
+				"name" : "Tianjin Binhai International Airport",
+				"latitude" : 39.12440109,
+				"longitude" : 117.3460007,
+				"elevation [m]" : 3,
+				"continent" : "AS",
+				"municipality" : "Tianjin",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 112.627998, 37.746899, 785 ]
+			},
+			"properties" : {
+				"ident" : "ZBYN",
+				"name" : "Taiyuan Wusu Airport",
+				"latitude" : 37.746899,
+				"longitude" : 112.627998,
+				"elevation [m]" : 785,
+				"continent" : "AS",
+				"municipality" : "Taiyuan",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 113.299004, 23.392401, 15 ]
+			},
+			"properties" : {
+				"ident" : "ZGGG",
+				"name" : "Guangzhou Baiyun International Airport",
+				"latitude" : 23.392401,
+				"longitude" : 113.299004,
+				"elevation [m]" : 15,
+				"continent" : "AS",
+				"municipality" : "Guangzhou (Huadu)",
+				"website" : "http://www.baiyunairport.com/english/index.jsp"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 113.220001, 28.189199, 66 ]
+			},
+			"properties" : {
+				"ident" : "ZGHA",
+				"name" : "Changsha Huanghua International Airport",
+				"latitude" : 28.189199,
+				"longitude" : 113.220001,
+				"elevation [m]" : 66,
+				"continent" : "AS",
+				"municipality" : "Changsha (Changsha)",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 110.039553, 25.219828, 174 ]
+			},
+			"properties" : {
+				"ident" : "ZGKL",
+				"name" : "Guilin Liangjiang International Airport",
+				"latitude" : 25.219828,
+				"longitude" : 110.039553,
+				"elevation [m]" : 174,
+				"continent" : "AS",
+				"municipality" : "Guilin (Lingui)",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 108.171997, 22.608299, 128 ]
+			},
+			"properties" : {
+				"ident" : "ZGNN",
+				"name" : "Nanning Wuxu Airport",
+				"latitude" : 22.608299,
+				"longitude" : 108.171997,
+				"elevation [m]" : 128,
+				"continent" : "AS",
+				"municipality" : "Nanning (Jiangnan)",
+				"website" : "http://www.nnairport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 113.810997, 22.639299, 4 ]
+			},
+			"properties" : {
+				"ident" : "ZGSZ",
+				"name" : "Shenzhen Bao'an International Airport",
+				"latitude" : 22.639299,
+				"longitude" : 113.810997,
+				"elevation [m]" : 4,
+				"continent" : "AS",
+				"municipality" : "Shenzhen (Bao'an)",
+				"website" : "http://eng.szairport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 113.849165, 34.526497, 151 ]
+			},
+			"properties" : {
+				"ident" : "ZHCC",
+				"name" : "Zhengzhou Xinzheng International Airport",
+				"latitude" : 34.526497,
+				"longitude" : 113.849165,
+				"elevation [m]" : 151,
+				"continent" : "AS",
+				"municipality" : "Zhengzhou",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.213723, 30.774798, 34 ]
+			},
+			"properties" : {
+				"ident" : "ZHHH",
+				"name" : "Wuhan Tianhe International Airport",
+				"latitude" : 30.774798,
+				"longitude" : 114.213723,
+				"elevation [m]" : 34,
+				"continent" : "AS",
+				"municipality" : "Wuhan (Huangpi)",
+				"website" : "http://www.whairport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 110.459, 19.9349, 23 ]
+			},
+			"properties" : {
+				"ident" : "ZJHK",
+				"name" : "Haikou Meilan International Airport",
+				"latitude" : 19.9349,
+				"longitude" : 110.459,
+				"elevation [m]" : 23,
+				"continent" : "AS",
+				"municipality" : "Haikou (Meilan)",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 109.412003, 18.3029, 28 ]
+			},
+			"properties" : {
+				"ident" : "ZJSY",
+				"name" : "Sanya Phoenix International Airport",
+				"latitude" : 18.3029,
+				"longitude" : 109.412003,
+				"elevation [m]" : 28,
+				"continent" : "AS",
+				"municipality" : "Sanya (Tianya)",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.620003, 36.515202, 1947 ]
+			},
+			"properties" : {
+				"ident" : "ZLLL",
+				"name" : "Lanzhou Zhongchuan International Airport",
+				"latitude" : 36.515202,
+				"longitude" : 103.620003,
+				"elevation [m]" : 1947,
+				"continent" : "AS",
+				"municipality" : "Lanzhou (Yongdeng)",
+				"website" : "http://lzzcairport.com/Home/Index"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 108.751999, 34.447102, 479 ]
+			},
+			"properties" : {
+				"ident" : "ZLXY",
+				"name" : "Xi'an Xianyang International Airport",
+				"latitude" : 34.447102,
+				"longitude" : 108.751999,
+				"elevation [m]" : 479,
+				"continent" : "AS",
+				"municipality" : "Xianyang (Weicheng)",
+				"website" : "http://www.xxia.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 106.819833, 47.646916, 1366 ]
+			},
+			"properties" : {
+				"ident" : "ZMCK",
+				"name" : "Ulaanbaatar Chinggis Khaan International Airport",
+				"latitude" : 47.646916,
+				"longitude" : 106.819833,
+				"elevation [m]" : 1366,
+				"continent" : "AS",
+				"municipality" : "Ulaanbaatar (Sergelen)",
+				"website" : "https://ulaanbaatar-airport.mn/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 102.936743, 25.110313, 2104 ]
+			},
+			"properties" : {
+				"ident" : "ZPPP",
+				"name" : "Kunming Changshui International Airport",
+				"latitude" : 25.110313,
+				"longitude" : 102.936743,
+				"elevation [m]" : 2104,
+				"continent" : "AS",
+				"municipality" : "Kunming",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 118.1279984, 24.54400063, 18 ]
+			},
+			"properties" : {
+				"ident" : "ZSAM",
+				"name" : "Xiamen Gaoqi International Airport",
+				"latitude" : 24.54400063,
+				"longitude" : 118.1279984,
+				"elevation [m]" : 18,
+				"continent" : "AS",
+				"municipality" : "Xiamen",
+				"website" : "http://www.xiagc.com.cn/enweb/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 115.90271, 28.864815, 44 ]
+			},
+			"properties" : {
+				"ident" : "ZSCN",
+				"name" : "Nanchang Changbei International Airport",
+				"latitude" : 28.864815,
+				"longitude" : 115.90271,
+				"elevation [m]" : 44,
+				"continent" : "AS",
+				"municipality" : "Nanchang",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 119.66318, 25.934669, 14 ]
+			},
+			"properties" : {
+				"ident" : "ZSFZ",
+				"name" : "Fuzhou Changle International Airport",
+				"latitude" : 25.934669,
+				"longitude" : 119.66318,
+				"elevation [m]" : 14,
+				"continent" : "AS",
+				"municipality" : "Fuzhou",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 120.428865, 30.23609, 7 ]
+			},
+			"properties" : {
+				"ident" : "ZSHC",
+				"name" : "Hangzhou Xiaoshan International Airport",
+				"latitude" : 30.23609,
+				"longitude" : 120.428865,
+				"elevation [m]" : 7,
+				"continent" : "AS",
+				"municipality" : "Hangzhou",
+				"website" : "http://www.hzairport.com/"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 117.216003, 36.857201, 23 ]
+			},
+			"properties" : {
+				"ident" : "ZSJN",
+				"name" : "Jinan Yaoqiang International Airport",
+				"latitude" : 36.857201,
+				"longitude" : 117.216003,
+				"elevation [m]" : 23,
+				"continent" : "AS",
+				"municipality" : "Jinan",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 121.461998, 29.82670021, 4 ]
+			},
+			"properties" : {
+				"ident" : "ZSNB",
+				"name" : "Ningbo Lishe International Airport",
+				"latitude" : 29.82670021,
+				"longitude" : 121.461998,
+				"elevation [m]" : 4,
+				"continent" : "AS",
+				"municipality" : "Ningbo",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 118.865949, 31.735032, 15 ]
+			},
+			"properties" : {
+				"ident" : "ZSNJ",
+				"name" : "Nanjing Lukou International Airport",
+				"latitude" : 31.735032,
+				"longitude" : 118.865949,
+				"elevation [m]" : 15,
+				"continent" : "AS",
+				"municipality" : "Nanjing",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 121.805, 31.1434, 4 ]
+			},
+			"properties" : {
+				"ident" : "ZSPD",
+				"name" : "Shanghai Pudong International Airport",
+				"latitude" : 31.1434,
+				"longitude" : 121.805,
+				"elevation [m]" : 4,
+				"continent" : "AS",
+				"municipality" : "Shanghai (Pudong)",
+				"website" : "https://www.shanghaiairport.com/index.html"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 121.33426, 31.198104, 3 ]
+			},
+			"properties" : {
+				"ident" : "ZSSS",
+				"name" : "Shanghai Hongqiao International Airport",
+				"latitude" : 31.198104,
+				"longitude" : 121.33426,
+				"elevation [m]" : 3,
+				"continent" : "AS",
+				"municipality" : "Shanghai (Minhang)",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 120.851997, 27.912201, 0 ]
+			},
+			"properties" : {
+				"ident" : "ZSWZ",
+				"name" : "Wenzhou Longwan International Airport",
+				"latitude" : 27.912201,
+				"longitude" : 120.851997,
+				"elevation [m]" : 0,
+				"continent" : "AS",
+				"municipality" : "Wenzhou",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 106.651895, 29.712254, 416 ]
+			},
+			"properties" : {
+				"ident" : "ZUCK",
+				"name" : "Chongqing Jiangbei International Airport",
+				"latitude" : 29.712254,
+				"longitude" : 106.651895,
+				"elevation [m]" : 416,
+				"continent" : "AS",
+				"municipality" : "Chongqing",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 106.803331, 26.541466, 1139 ]
+			},
+			"properties" : {
+				"ident" : "ZUGY",
+				"name" : "Guiyang Longdongbao International Airport",
+				"latitude" : 26.541466,
+				"longitude" : 106.803331,
+				"elevation [m]" : 1139,
+				"continent" : "AS",
+				"municipality" : "Guiyang (Nanming)",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 104.441284, 30.31252, 439 ]
+			},
+			"properties" : {
+				"ident" : "ZUTF",
+				"name" : "Chengdu Tianfu International Airport",
+				"latitude" : 30.31252,
+				"longitude" : 104.441284,
+				"elevation [m]" : 439,
+				"continent" : "AS",
+				"municipality" : "Chengdu (Jianyang)",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.945966, 30.558257, 495 ]
+			},
+			"properties" : {
+				"ident" : "ZUUU",
+				"name" : "Chengdu Shuangliu International Airport",
+				"latitude" : 30.558257,
+				"longitude" : 103.945966,
+				"elevation [m]" : 495,
+				"continent" : "AS",
+				"municipality" : "Chengdu (Shuangliu)",
+				"website" : "http://www.cdairport.com/cdairport/en_front/index.jsp"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 87.47419739, 43.90710068, 648 ]
+			},
+			"properties" : {
+				"ident" : "ZWWW",
+				"name" : "Ãœruemqi Diwopu International Airport",
+				"latitude" : 43.90710068,
+				"longitude" : 87.47419739,
+				"elevation [m]" : 648,
+				"continent" : "AS",
+				"municipality" : "Ãœruemqi",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 125.684998, 43.996201, 215 ]
+			},
+			"properties" : {
+				"ident" : "ZYCC",
+				"name" : "Changchun Longjia International Airport",
+				"latitude" : 43.996201,
+				"longitude" : 125.684998,
+				"elevation [m]" : 215,
+				"continent" : "AS",
+				"municipality" : "Changchun",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 126.25, 45.623402, 139 ]
+			},
+			"properties" : {
+				"ident" : "ZYHB",
+				"name" : "Harbin Taiping International Airport",
+				"latitude" : 45.623402,
+				"longitude" : 126.25,
+				"elevation [m]" : 139,
+				"continent" : "AS",
+				"municipality" : "Harbin",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 121.539001, 38.965698, 33 ]
+			},
+			"properties" : {
+				"ident" : "ZYTL",
+				"name" : "Dalian Zhoushuizi International Airport",
+				"latitude" : 38.965698,
+				"longitude" : 121.539001,
+				"elevation [m]" : 33,
+				"continent" : "AS",
+				"municipality" : "Ganjingzi, Dalian",
+				"website" : "no website found"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 123.483002, 41.639801, 60 ]
+			},
+			"properties" : {
+				"ident" : "ZYTX",
+				"name" : "Shenyang Taoxian International Airport",
+				"latitude" : 41.639801,
+				"longitude" : 123.483002,
+				"elevation [m]" : 60,
+				"continent" : "AS",
+				"municipality" : "Hunnan, Shenyang",
+				"website" : "no website found"
+			}
+		}
+	]
+}

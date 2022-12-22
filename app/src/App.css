@@ -1,0 +1,351 @@
+/*-----------Leaflet Style-----------*/
+.leaflet-container {
+    width: 100%;
+    height: 100vh;
+    align-content: center;
+    z-index: 0;
+    position: absolute;
+    top: 0 ;
+    right: 0;
+    background: black;
+}
+
+.leaflet-control-container {
+    position: absolute;
+    height: 100vh;
+    top: 0px;
+    right: 0px;
+}
+
+.leaflet-control-zoom {
+    position: absolute;
+    top: 65px;
+    right: 50px;
+}
+
+.leaflet-control-attribution {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    width: 225px;
+}
+
+.root {
+    max-width: 150px;
+}
+/*-----------Layer Style-----------*/
+.MuiFormGroup-root {
+    background-color: rgb(158, 210, 242);
+    position: absolute;
+    display: list-item;
+    top: 45px;
+    left: 5px;
+    width: 138px;
+    height: 65px;
+    z-index: 2;
+    align-items: center;
+    border-radius: 5px;
+    box-shadow: 3px 3px 5px rgba(0,0,0,0.2);
+}
+.LayerAirports {
+    position: absolute;
+    top: -7px;
+    left: 3px;
+    background-color: none;
+}
+
+.LayerLine {
+    position: absolute;
+    left: 2px;
+    top: 25px;
+    width: 450px;
+}
+/*-----------Style general-----------*/
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: antiquewhite;
+    margin: 0;
+    z-index: 0;
+}
+/*-----------Start-End-Operation Style-----------*/
+.renderStart {
+    background-color: lightskyblue;
+    position: relative;
+    padding-left: 25px;
+    padding-top: 7px;
+    padding-bottom: 1px;
+    margin: 0;
+    transform: translate(0px, -20px);
+    width: 350px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.2);
+    background-image: radial-gradient(circle,
+    rgba(51,130,205,0.5) 0%,
+    rgba(57,139,218,0.5) 20%,
+    rgba(57,132,204,0.5) 40%,
+    rgba(56,119,181,0.5) 60%,
+    rgba(58,117,175,0.5) 80%,
+    rgba(64,105,144,0.5) 100%);
+}
+
+.renderEnd {
+    background-color: lightskyblue;
+    position: relative;
+    padding-left: 25px;
+    padding-top: 7px;
+    padding-bottom: 1px;
+    margin: 0;
+    transform: translate(0px, -25px);
+    width: 350px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.2);
+    background-image: radial-gradient(circle,
+    rgba(51,130,205,0.5) 0%,
+    rgba(57,139,218,0.5) 20%,
+    rgba(57,132,204,0.5) 40%,
+    rgba(56,119,181,0.5) 60%,
+    rgba(58,117,175,0.5) 80%,
+    rgba(64,105,144,0.5) 100%);
+}
+
+.operationButtons {
+    background-color: lightskyblue;
+    position: relative;
+    padding-left: 25px;
+    padding-top: 45px;
+    padding-bottom: 10px;
+    margin: 0;
+    transform: translate(0px, -31px);
+    max-width: 350px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.2);
+    background-image: radial-gradient(circle,
+    rgba(51,130,205,0.5) 0%,
+    rgba(57,139,218,0.5) 20%,
+    rgba(57,132,204,0.5) 40%,
+    rgba(56,119,181,0.5) 60%,
+    rgba(58,117,175,0.5) 80%,
+    rgba(64,105,144,0.5) 100%);
+}
+/*-----------Dropdown Arrow Menu Style-----------*/
+.Menu {
+    z-index: 1;
+    position: absolute;
+    top: 5px;
+    left: max(326px, calc(50% - 100px));
+    width: 100px;
+    height: 100px;
+    transform: translate(50px);
+    background-color: #1976D2;
+    border-radius: 5px;
+    transition: all 0.5s ease-in-out;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.2);
+}
+
+.Menu:hover {
+    z-index: 1;
+    cursor: pointer;
+    transform-origin: 79px 27px;
+    transform: translate(50px, 9px);
+}
+
+.Arrow {
+    z-index: 1;
+    position: relative;
+    bottom: -85px;
+    right: -50px;
+    width: 30px;
+    height: 5px;
+    background-color: aliceblue;
+    transform: rotate(-20deg);
+    border-radius: 2px;
+}
+
+.Arrow::before {
+    z-index: 1;
+    background-color: aliceblue;
+    content: '';
+    position: relative;
+    transform: rotate(40deg);
+    bottom: 9px;
+    right: 25px;
+    display: block;
+    width: 30px;
+    height: 5px;
+    border-radius: 2px;
+}
+/*-----------Liftup Arrow Menu Style-----------*/
+.hideMenu {
+    z-index: 0;
+    position: absolute;
+    top: 395px;
+    left: max(626px, calc(50% - 100px));
+    width: 100px;
+    height: 100px;
+    transform: translate(50px);
+    background-color: #1976D2;
+    border-radius: 5px;
+    transition: all 0.5s ease-in-out;
+}
+
+.hideMenu:hover {
+    z-index: 0;
+    cursor: pointer;
+    transform-origin: 79px 27px;
+    transform: translate(50px, -9px);
+}
+
+.hideArrow {
+    z-index: 1;
+    position: relative;
+    bottom: -85px;
+    right: -50px;
+    width: 30px;
+    height: 5px;
+    background-color: aliceblue;
+    transform: rotate(20deg);
+    border-radius: 2px;
+}
+
+.hideArrow::before {
+    z-index: 1;
+    background-color: aliceblue;
+    content: '';
+    position: relative;
+    transform: rotate(-40deg);
+    bottom: -9px;
+    right: 24px;
+    display: block;
+    width: 30px;
+    height: 5px;
+    border-radius: 2px;
+}
+/*-----------Menu Style-----------*/
+.MenuItems {
+    position: absolute;
+    left: max(376px, calc(50% - 250px));
+    top: 65px;
+    z-index: 4;
+    width: 500px;
+    height: 400px;
+    background-color: lightskyblue;
+    border-radius: 5px;
+    box-shadow: inset 0 0 10px #1976d259, 5px 5px 5px rgba(0,0,0,0.2);
+    background-image: radial-gradient(circle,
+    rgba(51,130,205,0.5) 0%,
+    rgba(57,139,218,0.5) 20%,
+    rgba(57,132,204,0.5) 40%,
+    rgba(56,119,181,0.5) 60%,
+    rgba(58,117,175,0.5) 80%,
+    rgba(64,105,144,0.5) 100%);
+}
+/*-----------Menu Layer(left) Style-----------*/
+.Layers {
+    position: relative;
+    z-index: 5;
+    left: 0px;
+    top: 0px;
+    width: 30%;
+    height: inherit;
+    background-color: rgba(135, 206, 250, 0.103);
+    border-radius: 5px;
+    border-right: solid 1px #1976d259;
+}
+
+.Layername {
+    position: absolute;
+    left: 10px;
+    top: -10px;
+}
+/*-----------Menu Info(right) Style-----------*/
+.Info {
+    position: relative;
+    z-index: 6;
+    right: -30%;
+    top: -400px;
+    width: 70%;
+    height: inherit;
+    background-color: rgba(135, 206, 250, 0.103);
+    border-radius: 5px;
+    border-left: solid 1px #1976d259;
+}
+/*-----------Section About Style-----------*/
+.About {
+    position: absolute;
+    top: -10px;
+    width: 45%;
+    left: 49.3%;
+    padding-left: 20px;
+    transition: all 0.5s ease-in-out;
+    border-left: solid  #1976d259 1px;
+    border-bottom: solid  #1976d259 1px;
+}
+
+.About:hover {
+    background-color: rgb(129, 204, 251);
+    width: 45%;
+    left: 49%;
+    padding-left: 20px;
+    cursor: pointer;
+    border-radius: 2px 10px;
+    box-shadow: -5px 5px 5px #1976d259;
+}
+
+.aboutContent {
+    position: relative;
+    word-wrap: break-word;
+    padding: 5px;
+    overflow: scroll;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    overflow-x: hidden;
+    width: 330px;
+    height: 330px;
+    top: 55px;
+    left: 3px;
+}
+
+.aboutContent::-webkit-scrollbar {
+    display: none;
+}
+
+.AboutItem:hover {
+    cursor: pointer;
+}
+/*-----------Section Help Style-----------*/
+.Help {
+    position: absolute;
+    width: 45%;
+    padding-left: 15px;
+    top: -10px;
+    transition: all 0.5s ease-in-out;
+    border-right: solid  #1976d259 1px;
+    border-bottom: solid  #1976d259 1px;
+}
+
+.Help:hover {
+    background-color: rgb(129, 204, 251);
+    width: 45%;
+    left: 0px;
+    cursor: pointer;
+    border-radius: 10px 2px;
+    box-shadow: 5px 5px 5px #1976d259;
+}
+
+.helpContent {
+    position: absolute;
+    top: 30px;
+    left: 3px;
+    height: 370px;
+}
+
+.HelpInstructions {
+    font-size: 11.5pt;
+    transform: translateY(5px);
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.PlaneIcon {
+    transform: translateY(6px);
+}
